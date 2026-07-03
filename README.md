@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Consumer Rights Triage
 
 Consumer Rights Triage is a full-stack AI-assisted legal triaging application that helps Indian consumers assess the strength of their disputes under the **Consumer Protection Act (CPA), 2019**, view similar past case outcomes from the NCDRC, and draft professional legal notices.
@@ -93,3 +94,6 @@ We have written offline verification scripts to test individual modules and API 
    ```bash
    python scripts/test_backend_contract.py
    ```
+=======
+# consumerAi
+>>>>>>> 84f63f3a57a4451d3997fa8ab36f8d76d5d51eda
