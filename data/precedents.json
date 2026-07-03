@@ -1,0 +1,65 @@
+[
+  {
+    "case_id": "NCDRC-2023-DG01",
+    "category": "Defective/deficient goods",
+    "facts_summary": "The complainant purchased an SUV from a licensed dealer for INR 18 Lakhs. Within three months of purchase, the vehicle's engine began overheating repeatedly, and the steering alignment pulled severely to the left. The dealer made four attempts to repair the issues, but the problems persisted. The manufacturer claimed the issues were due to normal wear and tear and negligent driving by the complainant, refusing a replacement or refund.",
+    "sections_cited": ["2(7)", "2(34)", "35", "39"],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Replacement of SUV with a new vehicle of the same model, plus INR 50,000 for mental agony and litigation costs.",
+    "key_reasoning": "The Commission found that a brand new vehicle requiring major engine and steering repairs within its warranty period suffers from inherent manufacturing defects. Under Section 39 of the CPA 2019, the manufacturer and dealer are jointly liable to replace the defective product as the repair attempts failed to cure the defect."
+  },
+  {
+    "case_id": "NCDRC-2023-DG02",
+    "category": "Defective/deficient goods",
+    "facts_summary": "The consumer purchased a high-end double-door refrigerator for INR 75,000. Within 15 days, the cooling mechanism failed, causing food spoilage. The service center replaced the compressor twice, but the cooling unit leaked refrigerant continuously. The manufacturer refused replacement, citing their policy of 'repair only, no replacement or refund'.",
+    "sections_cited": ["2(6)", "2(7)", "39"],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Full refund of INR 75,000 with 9% annual interest from the date of purchase, and INR 15,000 compensation.",
+    "key_reasoning": "Refusal to replace or refund a product that is demonstrably defective and unable to perform its primary function (cooling) within days of purchase constitutes a defect under the CPA. A 'repair only' policy cannot override the statutory rights of a consumer under Section 39 to receive a refund for defective goods."
+  },
+  {
+    "case_id": "NCDRC-2024-DS01",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant booked a domestic flight ticket. On the day of travel, the airline cancelled the flight without prior notice, citing 'operational reasons' which were later revealed to be low passenger load. The passenger missed an important business interview. The airline offered a ticket on a flight the next day or a basic refund of the base fare, but refused to compensate for the lost opportunity or hotel expenses.",
+    "sections_cited": ["2(7)", "2(11)", "39"],
+    "outcome": "consumer_won",
+    "compensation_awarded": "INR 30,000 for mental agony, hotel expenses of INR 5,000, and refund of the full ticket fare.",
+    "key_reasoning": "Cancelling a flight without reasonable prior notice to merge flights for commercial reasons (low occupancy) is a clear case of deficiency in service under Section 2(11). The airline cannot limit its liability to a bare refund when the passenger suffers consequential damage due to their unilateral negligence."
+  },
+  {
+    "case_id": "SCDRC-2023-DS02",
+    "category": "Deficiency in service",
+    "facts_summary": "A patient was admitted to a private hospital for a laparoscopic gall bladder surgery. During the procedure, the surgeon accidentally punctured the bile duct, necessitating an emergency open surgery and a prolonged ICU stay of 3 weeks. The hospital billed the patient for the additional costs of the ICU stay and the corrective surgery, claiming it was a known surgical complication.",
+    "sections_cited": ["2(11)", "2(34)", "35"],
+    "outcome": "partial",
+    "compensation_awarded": "Waiver of the extra hospital bill (INR 2.5 Lakhs) and INR 1 Lakh compensation for pain and suffering.",
+    "key_reasoning": "While a minor complication can occur, the hospital charging the patient for corrective treatment arising directly from an error committed by its own surgeon is unfair and deficient. The Commission held that the hospital is liable for the surgeon's negligence but did not find criminal medical negligence, resulting in a partial award."
+  },
+  {
+    "case_id": "NCDRC-2024-UT01",
+    "category": "Unfair trade practice / refund denial",
+    "facts_summary": "An educational technology platform sold an online UPSC preparation course for INR 1.2 Lakhs. The platform advertised '100% refund within 7 days if not satisfied'. The student requested a refund on Day 3 via email. The platform dragged out the request, stating they needed to verify documents, and on Day 10 refused the refund saying the 7-day window had expired.",
+    "sections_cited": ["2(47)", "17", "39"],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Full refund of INR 1.2 Lakhs, plus INR 20,000 compensation for harassment and litigation costs.",
+    "key_reasoning": "Intentionally delaying a refund request to push the consumer past the refund period is a deceptive practice that falls squarely under Unfair Trade Practices defined in Section 2(47). The student provided clear email proof of requesting a refund on Day 3."
+  },
+  {
+    "case_id": "NCDRC-2023-UT02",
+    "category": "Unfair trade practice / refund denial",
+    "facts_summary": "A real estate developer launched a housing project and accepted booking amounts, promising possession within 3 years. After 5 years, the construction was only 30% complete. When buyers requested refunds with interest, the builder pointed to a clause in the builder-buyer agreement that allowed them to delay construction indefinitely under vague force majeure clauses and only offer refunds without interest.",
+    "sections_cited": ["2(6)", "2(47)", "35", "39"],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Refund of the entire principal amount paid, along with 12% per annum simple interest from the dates of respective deposits, and INR 50,000 costs.",
+    "key_reasoning": "One-sided agreements drafted by developers that penalize buyers for delays but allow the developer indefinite extensions are 'unfair contracts' and constitute unfair trade practices under Section 2(47). Consumers cannot be bound to wait indefinitely for possession."
+  },
+  {
+    "case_id": "NCDRC-2022-UT03",
+    "category": "Unfair trade practice / refund denial",
+    "facts_summary": "The consumer purchased an airline ticket online but had to cancel it 48 hours before departure. The airline charged a cancellation fee of INR 4,500 on a ticket that cost INR 5,000, returning only INR 500. The consumer claimed this fee was exorbitant and unconscionable.",
+    "sections_cited": ["2(7)", "2(47)"],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None.",
+    "key_reasoning": "The Commission found that the cancellation fee was explicitly stated in the terms and conditions at the time of booking, which the consumer voluntarily accepted. Charging contractually agreed-upon cancellation fees does not constitute an unfair trade practice if they align with the Civil Aviation Requirements (CAR) guidelines."
+  }
+]
