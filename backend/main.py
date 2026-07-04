@@ -4,20 +4,18 @@ from backend.routers import analyze, notice, precedents
 
 app = FastAPI(
     title="Consumer Rights Triage API",
-    description="Backend service for assessing Indian Consumer Protection Act (CPA) 2019 disputes and drafting legal notices.",
+    description="Backend service for assessing Indian Consumer Protection Act 2019 disputes and drafting legal notices.",
     version="1.0.0"
 )
 
-# CORS setup to allow integration with React Vite frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Allows all origins for local development and demo testing
+    allow_origins=["http://localhost:5173"],
     allow_credentials=True,
-    allow_methods=["*"],  # Allows all methods (GET, POST, etc.)
-    allow_headers=["*"],  # Allows all headers
+    allow_methods=["GET,POST"],
+    allow_headers=["*"],  
 )
 
-# Register routers
 app.include_router(analyze.router, prefix="", tags=["Dispute Analysis"])
 app.include_router(notice.router, prefix="", tags=["Notice Drafting"])
 app.include_router(precedents.router, prefix="", tags=["Precedents"])
