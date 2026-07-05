@@ -4,7 +4,7 @@ from pydantic import BaseModel, Field
 # 1. Structured Output from Fact Extraction Chain
 class FactExtractionResult(BaseModel):
     category: str = Field(
-        description="The category of the dispute. Must be one of: 'Defective/deficient goods', 'Deficiency in service', or 'Unfair trade practice / refund denial'."
+        description="The category of the dispute. Must be one of: 'Defective Goods', 'Deficient Services', or 'Unfair trade practice'."
     )
     amount: str = Field(
         description="The financial amount involved in the dispute (e.g. price paid, refund claimed, compensation requested). Format as currency like 'INR 50,000' or similar if available, otherwise 'Unknown'."
@@ -44,7 +44,7 @@ class AssessmentResult(BaseModel):
         description="Detailed legal and factual reasoning for the strength rating, based strictly on the provided context."
     )
     cited_sections: List[str] = Field(
-        description="List of section numbers from the CPA 2019 that directly support the consumer's case (e.g. ['2(11)', '39'])."
+        description="List of section numbers from the CPA 2019 that directly support the consumer's case using the exact section numbers provided to you like '85' , '2(7)' if given to you )."
     )
     cited_precedent_ids: List[str] = Field(
         description="List of case IDs of the retrieved precedents that are relevant and support the reasoning (e.g. ['NCDRC-2024-DS01'])."

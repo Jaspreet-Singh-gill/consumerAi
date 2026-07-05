@@ -15,7 +15,7 @@ def is_pinecone_configured() -> bool:
 
 def get_cpa_vectorstore() -> PineconeVectorStore:
     return PineconeVectorStore(
-        index_name="cpa-sections",
+        index_name="cpa-sections", 
         embedding=embeddings,
         pinecone_api_key=config.PINECONE_API_KEY
     )
@@ -122,11 +122,11 @@ def retrieve_context(query: str, category: str, k_sections: int = 3, k_precedent
     try:
         cpa_vs = get_cpa_vectorstore()
         sections_filter = {"category_tags": category}
-        sections = cpa_vs.similarity_search(query, k=k_sections, filter=sections_filter)
+        sections = cpa_vs.similarity_search(query, k=k_sections)
 
         precedents_vs = get_precedents_vectorstore()
         precedents_filter = {"category": category}
-        precedents = precedents_vs.similarity_search(query, k=k_precedents, filter=precedents_filter)
+        precedents = precedents_vs.similarity_search(query, k=k_precedents)
 
         return sections, precedents
     except Exception as e:

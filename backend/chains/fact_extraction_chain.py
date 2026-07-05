@@ -19,7 +19,7 @@ FACT_EXTRACTION_PROMPT = ChatPromptTemplate.from_messages([
         "Your task is to analyze the consumer's dispute description and any extracted text "
         "from their uploaded evidence documents (e.g., invoice details, transaction dates, or emails).\n\n"
         "Carefully extract the following details into the required structured schema:\n"
-        "1. Dispute Category: Strictly classify into 'Defective/deficient goods', 'Deficiency in service', or 'Unfair trade practice / refund denial'.\n"
+        "1. Dispute Category: Strictly classify into 'Defective Goods', 'Deficient Services', or 'Unfair trade practice' (always return categories in this form matching the category tags used in the Consumer Protection Act data).\n"
         "2. Amount: Price paid, refund amount, or claimed value. Include currency format if possible (e.g. 'INR X').\n"
         "3. Dates: Key transaction, purchase, cancellation, or communication dates.\n"
         "4. Product or Service: Name of product or service in question.\n"

@@ -4,7 +4,9 @@ from fastapi import APIRouter, UploadFile, File, Form, HTTPException
 from backend.models.schemas import (
     DisputeAnalysisResponse,
     CPASectionDoc,
-    PrecedentDoc
+    PrecedentDoc,
+    FactExtractionResult,
+    AssessmentResult
 )
 from backend.services.pdf_extractor import extract_text_from_pdf
 from backend.services.retrieval_service import retrieve_context
@@ -47,6 +49,8 @@ async def analyze_dispute(
             "description": description,
             "evidence_text": evidence_text
         })
+        if isinstance(facts, dict):
+            facts = FactExtractionResult(**facts)
     except Exception as e:
         print(f"Fact extraction failed: {e}")
         raise HTTPException(
@@ -67,21 +71,22 @@ async def analyze_dispute(
         sections, precedents = [], []
 
     # Format retrieved contexts for the assessment LLM
+    print(sections)
     sections_context = ""
     retrieved_sections_docs = []
     for doc in sections:
-        section_no = doc.metadata.get("section_no", "Unknown")
-        title = doc.metadata.get("title", "Unknown")
-        text = doc.page_content
-        category_tags = doc.metadata.get("category_tags", [])
+        section_noR = doc.metadata.get("section_no", "Unknown")
+        titleR = doc.metadata.get("title", "Unknown")
+        textR = doc.page_content
+        category_tagsR = doc.metadata.get("category_tags", [])
         
-        sections_context += f"Section {section_no} - {title}:\n{text}\n\n"
+        sections_context += f"Section {section_noR} - {titleR}:\n{textR}\n\n"
         retrieved_sections_docs.append(
             CPASectionDoc(
-                section_no=section_no,
-                title=title,
-                text=text,
-                category_tags=category_tags
+                section_no=section_noR,
+                title=titleR,
+                text=textR,
+                category_tags=category_tagsR
             )
         )
 
@@ -137,6 +142,8 @@ async def analyze_dispute(
             "sections_context": sections_context,
             "precedents_context": precedents_context
         })
+        if isinstance(assessment, dict):
+            assessment = AssessmentResult(**assessment)
     except Exception as e:
         print(f"Assessment failed: {e}")
         raise HTTPException(
