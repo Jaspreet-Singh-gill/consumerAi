@@ -71,7 +71,6 @@ async def analyze_dispute(
         sections, precedents = [], []
 
     # Format retrieved contexts for the assessment LLM
-    print(sections)
     sections_context = ""
     retrieved_sections_docs = []
     for doc in sections:
