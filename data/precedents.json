@@ -3,7 +3,12 @@
     "case_id": "NCDRC-2023-DG01",
     "category": "Defective/deficient goods",
     "facts_summary": "The complainant purchased an SUV from a licensed dealer for INR 18 Lakhs. Within three months of purchase, the vehicle's engine began overheating repeatedly, and the steering alignment pulled severely to the left. The dealer made four attempts to repair the issues, but the problems persisted. The manufacturer claimed the issues were due to normal wear and tear and negligent driving by the complainant, refusing a replacement or refund.",
-    "sections_cited": ["2(7)", "2(34)", "35", "39"],
+    "sections_cited": [
+      "2(7)",
+      "2(34)",
+      "35",
+      "39"
+    ],
     "outcome": "consumer_won",
     "compensation_awarded": "Replacement of SUV with a new vehicle of the same model, plus INR 50,000 for mental agony and litigation costs.",
     "key_reasoning": "The Commission found that a brand new vehicle requiring major engine and steering repairs within its warranty period suffers from inherent manufacturing defects. Under Section 39 of the CPA 2019, the manufacturer and dealer are jointly liable to replace the defective product as the repair attempts failed to cure the defect."
@@ -12,7 +17,11 @@
     "case_id": "NCDRC-2023-DG02",
     "category": "Defective/deficient goods",
     "facts_summary": "The consumer purchased a high-end double-door refrigerator for INR 75,000. Within 15 days, the cooling mechanism failed, causing food spoilage. The service center replaced the compressor twice, but the cooling unit leaked refrigerant continuously. The manufacturer refused replacement, citing their policy of 'repair only, no replacement or refund'.",
-    "sections_cited": ["2(6)", "2(7)", "39"],
+    "sections_cited": [
+      "2(6)",
+      "2(7)",
+      "39"
+    ],
     "outcome": "consumer_won",
     "compensation_awarded": "Full refund of INR 75,000 with 9% annual interest from the date of purchase, and INR 15,000 compensation.",
     "key_reasoning": "Refusal to replace or refund a product that is demonstrably defective and unable to perform its primary function (cooling) within days of purchase constitutes a defect under the CPA. A 'repair only' policy cannot override the statutory rights of a consumer under Section 39 to receive a refund for defective goods."
@@ -21,7 +30,11 @@
     "case_id": "NCDRC-2024-DS01",
     "category": "Deficiency in service",
     "facts_summary": "The complainant booked a domestic flight ticket. On the day of travel, the airline cancelled the flight without prior notice, citing 'operational reasons' which were later revealed to be low passenger load. The passenger missed an important business interview. The airline offered a ticket on a flight the next day or a basic refund of the base fare, but refused to compensate for the lost opportunity or hotel expenses.",
-    "sections_cited": ["2(7)", "2(11)", "39"],
+    "sections_cited": [
+      "2(7)",
+      "2(11)",
+      "39"
+    ],
     "outcome": "consumer_won",
     "compensation_awarded": "INR 30,000 for mental agony, hotel expenses of INR 5,000, and refund of the full ticket fare.",
     "key_reasoning": "Cancelling a flight without reasonable prior notice to merge flights for commercial reasons (low occupancy) is a clear case of deficiency in service under Section 2(11). The airline cannot limit its liability to a bare refund when the passenger suffers consequential damage due to their unilateral negligence."
@@ -30,7 +43,11 @@
     "case_id": "SCDRC-2023-DS02",
     "category": "Deficiency in service",
     "facts_summary": "A patient was admitted to a private hospital for a laparoscopic gall bladder surgery. During the procedure, the surgeon accidentally punctured the bile duct, necessitating an emergency open surgery and a prolonged ICU stay of 3 weeks. The hospital billed the patient for the additional costs of the ICU stay and the corrective surgery, claiming it was a known surgical complication.",
-    "sections_cited": ["2(11)", "2(34)", "35"],
+    "sections_cited": [
+      "2(11)",
+      "2(34)",
+      "35"
+    ],
     "outcome": "partial",
     "compensation_awarded": "Waiver of the extra hospital bill (INR 2.5 Lakhs) and INR 1 Lakh compensation for pain and suffering.",
     "key_reasoning": "While a minor complication can occur, the hospital charging the patient for corrective treatment arising directly from an error committed by its own surgeon is unfair and deficient. The Commission held that the hospital is liable for the surgeon's negligence but did not find criminal medical negligence, resulting in a partial award."
@@ -39,7 +56,11 @@
     "case_id": "NCDRC-2024-UT01",
     "category": "Unfair trade practice / refund denial",
     "facts_summary": "An educational technology platform sold an online UPSC preparation course for INR 1.2 Lakhs. The platform advertised '100% refund within 7 days if not satisfied'. The student requested a refund on Day 3 via email. The platform dragged out the request, stating they needed to verify documents, and on Day 10 refused the refund saying the 7-day window had expired.",
-    "sections_cited": ["2(47)", "17", "39"],
+    "sections_cited": [
+      "2(47)",
+      "17",
+      "39"
+    ],
     "outcome": "consumer_won",
     "compensation_awarded": "Full refund of INR 1.2 Lakhs, plus INR 20,000 compensation for harassment and litigation costs.",
     "key_reasoning": "Intentionally delaying a refund request to push the consumer past the refund period is a deceptive practice that falls squarely under Unfair Trade Practices defined in Section 2(47). The student provided clear email proof of requesting a refund on Day 3."
@@ -48,7 +69,12 @@
     "case_id": "NCDRC-2023-UT02",
     "category": "Unfair trade practice / refund denial",
     "facts_summary": "A real estate developer launched a housing project and accepted booking amounts, promising possession within 3 years. After 5 years, the construction was only 30% complete. When buyers requested refunds with interest, the builder pointed to a clause in the builder-buyer agreement that allowed them to delay construction indefinitely under vague force majeure clauses and only offer refunds without interest.",
-    "sections_cited": ["2(6)", "2(47)", "35", "39"],
+    "sections_cited": [
+      "2(6)",
+      "2(47)",
+      "35",
+      "39"
+    ],
     "outcome": "consumer_won",
     "compensation_awarded": "Refund of the entire principal amount paid, along with 12% per annum simple interest from the dates of respective deposits, and INR 50,000 costs.",
     "key_reasoning": "One-sided agreements drafted by developers that penalize buyers for delays but allow the developer indefinite extensions are 'unfair contracts' and constitute unfair trade practices under Section 2(47). Consumers cannot be bound to wait indefinitely for possession."
@@ -57,9 +83,322 @@
     "case_id": "NCDRC-2022-UT03",
     "category": "Unfair trade practice / refund denial",
     "facts_summary": "The consumer purchased an airline ticket online but had to cancel it 48 hours before departure. The airline charged a cancellation fee of INR 4,500 on a ticket that cost INR 5,000, returning only INR 500. The consumer claimed this fee was exorbitant and unconscionable.",
-    "sections_cited": ["2(7)", "2(47)"],
+    "sections_cited": [
+      "2(7)",
+      "2(47)"
+    ],
     "outcome": "consumer_lost",
     "compensation_awarded": "None.",
     "key_reasoning": "The Commission found that the cancellation fee was explicitly stated in the terms and conditions at the time of booking, which the consumer voluntarily accepted. Charging contractually agreed-upon cancellation fees does not constitute an unfair trade practice if they align with the Civil Aviation Requirements (CAR) guidelines."
+  },
+  {
+    "case_id": "TataMotors_vs_RajeshTyagi_2013",
+    "category": "Defective goods",
+    "facts_summary": "Rajesh Tyagi bought a Tata Indigo (GLX) car and an extended warranty. Soon after delivery, water repeatedly entered the cabin from the front passenger side. The car was taken to the dealer's workshop multiple times (June 2003, May 2003, November 2003, etc.) where various causes were identified (twisted AC outlet pipe, blocked outlet, damaged seal, body‑shell defect) and supposedly rectified, but the problem recurred. The seat covers and footmats were damaged, and the dealer admitted defects in its replies. Tyagi demanded a refund of the purchase price (₹5,24,571) with interest and ₹1,00,000 compensation for mental agony. The District Forum dismissed the complaint, but the State Commission allowed it, ordering a refund of ₹5,24,471 and compensation of ₹50,000. Tata Motors filed a revision petition under Section 21(b) challenging that order.",
+    "sections_cited": [
+      "Section 21(b)",
+      "Section 13(1)(b)",
+      "Section 13(1)(c)",
+      "Section 14(1)(d)",
+      "Section 2(1)(f)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "₹50,000",
+    "key_reasoning": "The Commission applied the definition of ‘defect’ under Section 2(1)(f) of the Consumer Protection Act, holding that a consumer is entitled to relief when a good exhibits any fault, imperfection or shortcoming, irrespective of whether it is a manufacturing defect. The repeated repairs, numerous job cards, and admissions by the dealer demonstrated that the vehicle was defective. The onus shifted to the manufacturer to prove the absence of a defect, which it failed to do. Consequently, the consumer was awarded a refund of the purchase price and compensation for mental agony."
+  },
+  {
+    "case_id": "NCDRC-2018-525",
+    "category": "Defective goods",
+    "facts_summary": "The consumer purchased a Chevrolet Cruze on 17‑03‑2011 for Rs.13,55,541. Within 9‑10 months the car developed starting problems and was repeatedly taken to the authorised dealer (Radiant Motors) for repair. The consumer alleged a manufacturing defect and, after several repairs, demanded replacement of the vehicle and compensation. The District Consumer Forum ordered replacement of the car and monetary compensation. On appeal, the State Consumer Commission held that the consumer failed to prove a manufacturing defect, noting the high mileage (over 25,000 km) before the first fault, the presence of wear‑and‑tear issues, fuel impurity, and a loose wiring connection, and therefore set aside the District Forum order, dismissing the complaint.",
+    "sections_cited": [],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The commission found that the consumer did not discharge the onus of proving an inherent manufacturing defect. No expert opinion was produced, and the vehicle had accumulated substantial mileage before the first fault, indicating normal wear and tear rather than a latent defect. The identified problems (loose wiring, fuel impurity, battery cell) were remedied by the dealer. Consequently, the claim for replacement and compensation was rejected."
+  },
+  {
+    "case_id": "NCDRC-2016-001",
+    "category": "Defective goods",
+    "facts_summary": "The complainant purchased a Tata Indica on 25‑09‑2006 for Rs.3,87,835. Within weeks the car exhibited multiple problems – tyre air‑bubble, door noise, gearbox issues – which were repaired under warranty. Over the next two years the vehicle was taken to service repeatedly (11 times in the first year) and the complainant filed a consumer complaint on 26‑04‑2008. The District Consumer Forum ordered replacement of the car or refund of its price. The order was appealed and dismissed by the Karnataka State Commission. Tata Motors filed a revision petition before the National Consumer Disputes Redressal Commission, arguing that the defects were minor, were remedied under warranty, the car had logged over 90,000 km indicating no serious manufacturing defect, the alleged accident claim was dubious, and the purchaser was a consumer despite the vehicle being bought in the name of a company. The Commission examined the arguments, the mileage, the warranty terms, and the applicability of Sections 13, 2, 14 and 23 of the Consumer Protection Act.",
+    "sections_cited": [
+      "13(1)(b)",
+      "13(1)(c)",
+      "13(1)(d)",
+      "13(1)(e)",
+      "13(1)(f)",
+      "13(1)(g)",
+      "2(1)(f)",
+      "2(1)(g)",
+      "14(1)(c)",
+      "14(1)(d)",
+      "23"
+    ],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the vehicle was not suffering from a fundamental manufacturing defect because it had run over 90,000 km and the defects reported were repeatedly remedied by replacing parts under warranty. The alleged accident that would have voided the warranty was not credibly proved. The purchaser, although buying the car in the name of a sole proprietorship, was deemed a consumer. Consequently, the requirement under Section 13 to refer the matter to an independent expert was not satisfied, and the District Forum's order for replacement was set aside as excessive. The Commission therefore denied replacement or refund, concluding that the consumer's claim for a new vehicle was not justified."
+  },
+  {
+    "case_id": "AppleI_Entertainment_vs_Axis_Bank_2022",
+    "category": "Deficiency in service",
+    "facts_summary": "Apple-i Entertainment Pvt. Ltd. and its director Jaspalsinh Ranjitsinh Vala opened a bank account with Axis Bank Ltd. They instructed the bank on 15‑12‑2011 to change the signatory authority for the account. The bank failed to implement the change until 12‑07‑2012. During this period, one director, Shaktisinh Vaghela, withdrew approximately Rs 36 lakhs by issuing cheques in favour of third parties. The complainants lodged a police FIR on 13‑10‑2012 and a charge‑sheet was filed on 29‑07‑2013. They filed a consumer complaint on 15‑07‑2014 under section 17(A)(i) of the Consumer Protection Act, 1986, seeking compensation of Rs 71,50,000 for the bank’s negligence, carelessness and deficiency in service. Axis Bank contended that the complainants were not consumers, that the complaint was time‑barred, and that any dispute was between the company’s directors, not the bank.",
+    "sections_cited": [
+      "17(A)(i)"
+    ],
+    "outcome": "partial",
+    "compensation_awarded": "None",
+    "key_reasoning": "The commission examined whether the complaint was filed within the limitation period prescribed under the Consumer Protection Act and whether the bank’s failure to act on the authorised change constituted a deficiency in service. It also considered the applicability of the consumer definition to a corporate plaintiff and the relevance of internal disputes among the company’s directors. The decision balanced the bank’s defenses of limitation and lack of consumer status against the alleged negligence and loss suffered by the complainants."
+  },
+  {
+    "case_id": "CanaraBank_vs_SudhirAhuja_2006",
+    "category": "Deficiency in service",
+    "facts_summary": "The proprietor of Geeta Miniature Bulb Industry maintained a current account with Canara Bank. A cheque of Rs. 14,040 drawn on Dena Bank was deposited for collection on 25‑01‑2001 but was neither credited to the account nor returned. The complainant alleged the cheque amount was not received and filed a consumer complaint on 25‑04‑2001 seeking the cheque amount and compensation. The bank argued the cheque amount could not be recovered under the Consumer Protection Act and that the remedy for the cheque amount was barred by limitation. The District Forum held the bank deficient in service and awarded Rs. 2,000 compensation; the State Commission later ordered the bank to pay the full cheque amount, which was set aside on revision.",
+    "sections_cited": [],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs. 5,000",
+    "key_reasoning": "The bank was found deficient in service for failing to credit or return the cheque, but under the Consumer Protection Act a bank can be ordered only to pay compensation, not the entire cheque amount. The claim for the cheque amount was barred by limitation, and the precedent (State Bank of Patiala v. Rajender Lal) supported limiting the award to compensation. Consequently, the revision set aside the earlier order and directed the bank to pay Rs. 5,000 as compensation to the consumer."
+  },
+  {
+    "case_id": "NCDRC-2011-432",
+    "category": "Deficiency in service",
+    "facts_summary": "The Ram Piari Kapoor Charitable Trust opened a savings account (No. 23469) with Punjab National Bank. After internal disagreements among trustees, two trustees sent a letter to the bank on 06‑02‑1998 indicating a change in the mode of operation of the account. The bank, relying on this letter, froze the account without obtaining a copy of any resolution authorising the change. The Trust, represented by its Chairman Brig. J.M. Kapoor, claimed the freezing was illegal, caused paralysis of its charitable activities, mental harassment and financial loss, and filed a consumer complaint seeking a direction to de‑freeze the account and Rs 5,00,000 compensation. The State Consumer Disputes Redressal Commission dismissed the complaint, holding that the matter was a dispute among trustees that should be resolved by a civil court and that no deficiency in service by the bank was established. The Trust appealed this order.",
+    "sections_cited": [],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The commission held that the dispute centered on internal disagreements among the trustees of the charitable trust regarding authority to operate the bank account, which is a civil matter not within the jurisdiction of the consumer forum. Consequently, the bank's action of freezing the account, taken in response to conflicting trustee communications, was not deemed a deficiency in service."
+  },
+  {
+    "case_id": "I(2007)CPJ234A(NC)",
+    "category": "Deficiency in service",
+    "facts_summary": "Petitioner Manoj Khurana was issued four cheques dated 10‑10‑2003 for a total of Rs 50,000. He deposited them with respondent No. 2 (a bank) on 31‑3‑2004 for collection. The bank received the cheques on that date but, due to workload, forwarded them to its Durg branch on 7‑4‑2004. The Durg branch returned the cheques on 13‑4‑2004 stating they were not presented within six months of issue. The petitioner alleged deficiency in service and claimed Rs 61,000 (including the cheque amount). The State Commission found the bank deficient in service and awarded Rs 5,000 compensation. The petitioner filed a revision seeking higher compensation, which was dismissed.",
+    "sections_cited": [],
+    "outcome": "partial",
+    "compensation_awarded": "Rs 5,000",
+    "key_reasoning": "The commission held that the bank was deficient in service for delaying the dispatch of the cheques to its branch, justifying a modest compensation award. However, based on precedent (State Bank of Patiala v. Rajender Lal), a bank cannot be made to pay the entire cheque amount for such deficiency, and therefore no increase beyond Rs 5,000 was permissible."
+  },
+  {
+    "case_id": "NCDRC-2005-70",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant, C.L. Khanna, pledged original title deeds of his gifted property to Dena Bank in 1973 as security for a term loan and an overdraft facility. The bank retained the deeds and failed to return them despite repeated requests over the years. The complainant offered to repay the outstanding loan on condition that the deeds be returned, but the bank neither returned the documents nor waived the loan. The matter was taken to the Banking Ombudsman, which directed the bank to lodge an FIR, publish a notice, and bear costs for obtaining duplicate deeds, but rejected the claim for compensation and loan waiver. The complainant then filed a petition before the National Consumer Disputes Redressal Commission seeking return of the deeds, compensation for loss of title and mental agony, and directions to stop interest accrual. The bank argued that the deeds were in the possession of an advocate who had died, that the complaint was time‑barred, and that the complainant could obtain certified copies. The commission examined the correspondence and concluded that the complaint was not time‑barred and that the bank’s failure to return the original deeds constituted deficiency in service.",
+    "sections_cited": [],
+    "outcome": "partial",
+    "compensation_awarded": "None",
+    "key_reasoning": "The commission held that the complaint was not time‑barred because the bank never denied its liability to return the original title deeds and had not informed the complainant of any loss. The bank’s inability to produce the original documents and its refusal to return them despite repeated requests amounted to deficiency in service under the Consumer Protection Act. While the bank was directed to return the original deeds and to stop charging interest from the date the complainant offered repayment, the claim for monetary compensation and loan waiver was not granted, resulting in a partial relief to the consumer."
+  },
+  {
+    "case_id": "DLF-2019-805",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainants (Madan Lal Kansal and Amit Kansal) were allotted an independent flat (E‑3/14 FF, 1,751 sq ft.) in the DLF Valley project under an Independent Floor Buyers Agreement dated 07‑01‑2011. The agreement required possession within 24 months of execution, with a penalty of Rs 10 per sq ft. per month for delay. Possession was offered only on 14‑01‑2016; the complainants paid Rs 12,94,661.63 on 12‑02‑2016 and finally received possession on 26‑08‑2016, six months after payment and well beyond the contractual deadline. The complainants sought interest at 15 % per annum for the delay, Rs 5,00,000 compensation for mental agony and physical harassment, and Rs 40,000 costs of litigation, alleging deficiency in service and unfair trade practice under Section 17 of the Consumer Protection Act, 1986.",
+    "sections_cited": [
+      "17"
+    ],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the parties were bound by the terms of the Independent Floor Buyers Agreement, which expressly provided for an exit option and stipulated that disputes be resolved by arbitration. The delay was attributed to force‑majeure events, including court‑ordered stays on construction, and the complainants had voluntarily waived their right to grievance by accepting the exit offer and continuing with the project. Moreover, the Commission found that the complainants were not consumers within the meaning of the Act, as the flat was purchased for investment purposes, and the matter involved contractual modification rather than a consumer grievance. Consequently, the Commission dismissed the consumer claim and awarded no compensation."
+  },
+  {
+    "case_id": "853-2017",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant purchased a commercial shop (originally unit FF‑16) from an original buyer (Opposite Party No.5) who had bought it from the developers (Opposite Parties No.1‑4). The developers failed to deliver possession by the promised date of 30‑09‑2007, causing a delay of over 102 months. During this period the developers issued cheques as compensation, changed the unit number and area, and repeatedly delayed handing over possession despite the issuance of an Occupation Certificate on 12‑01‑2016. The complainant suffered loss of livelihood and alleged deficiency in service and unfair trade practice, seeking execution of the sale deed, interest on the purchase price, refund of excess amount due to reduced area, and monetary compensation for harassment and litigation expenses.",
+    "sections_cited": [
+      "17"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs 3,00,000 as compensation for harassment and mental agony, plus Rs 50,000 for litigation expenses",
+    "key_reasoning": "The Commission held that the developers (Opposite Parties No.1‑4) were deficient in rendering service by failing to deliver possession within the contractual timeframe and by unilaterally altering the unit number and super‑area, thereby causing loss of livelihood to the consumer. Their conduct also amounted to unfair trade practice. Consequently, the Commission ordered the execution of the sale/deed in favour of the complainant, directed payment of interest at 11% per annum on the Rs 45 lakh purchase price for the period of delay, ordered a refund of Rs 6,70,212.76 for the excess amount charged due to the reduced area, and awarded monetary compensation for mental agony and litigation costs."
+  },
+  {
+    "case_id": "SC-2022-154",
+    "category": "Unfair trade practice",
+    "facts_summary": "The complainant, Sandeep Gupta, paid a total of Rs.56,44,000 for a flat (unit T‑26/06‑07) in the Paras Tierra project, Noida, based on a provisional allotment letter and a detailed terms‑and‑conditions agreement that promised possession within 36 months. Despite full or partial payments, the developer (Imperial Housing Ventures Pvt. Ltd. and its directors) failed to obtain required statutory clearances, did not commence or complete construction on time, refused physical inspection of the unit, and issued back‑dated cancellation letters. The complainant alleges that the developer engaged in fraudulent, deceptive and unfair trade practices, collected money without proper licenses, and denied possession and required certificates, causing mental agony and financial loss.",
+    "sections_cited": [
+      "2(d)(i)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs.10,00,000.00",
+    "key_reasoning": "The Commission held that the developer violated the Consumer Protection Act by engaging in unfair trade practices and deficiency of service: it failed to obtain mandatory clearances, did not deliver possession within the stipulated period, and used back‑dated cancellation notices to evade its contractual obligations. These acts constitute a breach of the consumer's right to safety and to be protected against unfair trade practices under the Act, justifying the award of compensation for harassment and mental agony."
+  },
+  {
+    "case_id": "C/2013/204-UP",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant booked a flat in Omaxe's Grandwood project in 2006, paid over Rs 7 million in installments, and was promised possession by June 2009 (later March 2010). The builder repeatedly delayed possession, charged illegal interest at 18%, sent blank allotment letters for signature, and failed to complete registration. After more than four years of delay, possession was finally given in July 2013, but the complainant suffered loss of rent, higher stamp duty, and interest on delayed payments. The complainant filed a complaint under Section 17 of the Consumer Protection Act, 1986 seeking damages for unfair trade practice and deficiency in service.",
+    "sections_cited": [
+      "17",
+      "2"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the builder’s failure to deliver possession on the promised date, the imposition of illegal interest, and the practice of sending unsigned allotment letters constituted unfair trade practice and deficiency in service under the Consumer Protection Act. The builder’s actions violated Section 17, and the delay amounted to denial of service, entitling the consumer to compensation and interest at 18% for the period of delay."
+  },
+  {
+    "case_id": "SC-2024-CC111-2017",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant booked a three‑bedroom flat in the Indigo Tower project of S.G. Estates Ltd in 2012, paying the agreed amount including a 5% balance. The agreement promised possession by 30‑June‑2013, a swimming pool, and a clubhouse. Possession was delayed until 26‑September‑2014, during which the builder demanded additional payments, failed to provide the promised amenities, and charged extra fees for parking and service tax that were later contested. The complainant sought refund of service tax, penalty for delayed possession, compensation for non‑delivery of the pool and clubhouse, and reimbursement of excess stamp duty.",
+    "sections_cited": [
+      "17"
+    ],
+    "outcome": "partial",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission applied Section 17 of the Consumer Protection Act, 1986, finding that the builder had delayed possession beyond the contractual deadline, failed to deliver promised amenities (swimming pool and clubhouse), and imposed unlawful extra charges such as parking fees and service tax. These constitute deficiency in service and unfair trade practice. While the builder was directed to refund the service tax and pay penalty for delayed possession, the Commission did not award the full monetary compensation claimed by the consumer, resulting in a partial relief."
+  },
+  {
+    "case_id": "NCDRC-2015-04-22-104",
+    "category": "Deficiency in service",
+    "facts_summary": "Dr. Indu Sharma delivered a baby at Indraprastha Apollo Hospital after a prolonged rupture of membranes. She alleges that the hospital gave an excessive dose of oxytocin, delayed the decision to perform an emergency Caesarean section, and concealed/altered medical records, resulting in birth asphyxia, cerebral atrophy, severe mental retardation and eventual death of the child. The hospital and the attending doctors contend that the labour was managed according to standard protocols, that fetal heart rate remained normal, that there was no evidence of fetal distress, and that the child's condition was due to prenatal factors rather than any negligence on their part.",
+    "sections_cited": [],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission found that the medical evidence presented by the hospital – including continuous fetal heart monitoring, normal CTG tracings, and expert affidavits – did not establish any breach of the standard of care. The alleged excessive oxytocin dose and delayed Caesarean were not corroborated by objective data, and the child's neurological damage was attributed to prenatal causes rather than intra‑partum negligence. Consequently, the complaint was deemed unmaintainable and no compensation was awarded to the consumer."
+  },
+  {
+    "case_id": "NCDRC-2014-04-24-217",
+    "category": "Medical negligence / Deficiency in service",
+    "facts_summary": "The complainants (parents of a newborn, Master Nishant Verma) alleged that during a force‑ps delivery at Singhal Maternity and Medical Centre, the baby suffered severe brachial plexus injury, head trauma and other injuries due to the negligent use of forceps and inadequate antenatal care. Multiple neurologists confirmed total damage to five nerves of the child. The respondents (the medical centre, the obstetrician Dr. Pratibha Singhal, the anesthesiologist Dr. R.K. Singhal and the insurer National Insurance Co.) denied negligence, claiming appropriate investigations and standard obstetric maneuvers were followed. The State Consumer Commission found that the forceps were used with excessive force, proper protocols (e.g., McRoberts maneuver, documentation) were not observed, and that a caesarean section should have been considered given the baby's estimated weight, thereby partially allowing the complaint and awarding Rs 17,00,000 in damages.",
+    "sections_cited": [],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs 17,00,000 (Rs 15,00,000 from National Insurance Co. Ltd. and Rs 2,00,000 from Dr. Pratibha Singhal)",
+    "key_reasoning": "The commission held that the obstetrician failed to exercise the requisite skill and care: forceps were applied with excessive force and without proper indication, essential maneuvers were not documented, and necessary investigations (including assessment of maternal pelvis and fetal weight) were inadequate. These omissions amounted to medical negligence and deficiency in service, justifying the award of damages to the child."
+  },
+  {
+    "case_id": "CC/324/2013",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainants' premature baby was admitted to Dr. Ram Manohar Lohia Hospital. The baby developed Grade IV/Stage V Retinopathy of Prematurity (ROP) and became blind. The complainants alleged that the hospital failed to conduct the mandatory ROP screening within 4‑6 weeks of birth, constituting gross negligence. The hospital contended that ROP screening was performed within five days of admission and the report was normal, and therefore denied any negligence.",
+    "sections_cited": [],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the hospital had conducted ROP screening within five days of the baby's admission, as reflected in the discharge summary, and the report was normal. Consequently, the allegation of failure to screen within the statutory period was unsubstantiated. Applying the principles of medical negligence under the Consumer Protection Act, the Commission concluded that there was no breach of duty by the hospital and dismissed the complaint."
+  },
+  {
+    "case_id": "NCDRC-2012-299",
+    "category": "Medical negligence / Deficiency in service",
+    "facts_summary": "In June 1996 an eight‑month‑old infant was taken to Dr. Kiran Rajaram Vanasare’s hospital for dehydration. While attempting an IV in the right arm, several veins were punctured, causing swelling. The child’s condition worsened and gangrene developed, leading to amputation of the right arm above the elbow on 2 July 1996 after being transferred to another hospital. The appellant’s guardian alleged negligence by Dr. Vanasare (for the IV injury) and by Dr. Vijaya Mohan Potdar (for failing to prevent the spread of gangrene). A complaint was filed before the Maharashtra State Consumer Disputes Redressal Commission seeking Rs 8,22,300 in compensation. The State Commission dismissed the complaint, finding no evidence of negligence. The appellant appealed the dismissal before the National Consumer Disputes Redressal Commission.",
+    "sections_cited": [],
+    "outcome": "consumer_lost",
+    "compensation_awarded": "None",
+    "key_reasoning": "The State Commission held that the appellant failed to produce any expert medical evidence establishing negligence and that the medical records did not show gangrene at the time of admission to the second hospital. Consequently, the commission concluded that there was no medical negligence or deficiency in service by either doctor and dismissed the complaint. The appeal was filed on the basis that negligence was evident from the facts, but the excerpt does not contain a decision overturning the State Commission’s finding."
+  },
+  {
+    "case_id": "Haryana-1412-2009",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant, Rajender Kumar Verma, had a lens implanted in his left eye in 1992‑93. After experiencing pain, he consulted Dr. Vinod Sharma in 2006, who performed a second operation and implanted a new lens of inferior quality and larger size. The procedure caused corneal damage and loss of vision. Subsequent examinations at AIIMS confirmed the damage was due to the negligent implantation. The complainant sought compensation for loss of vision, mental agony and further medical expenses. The District Consumer Forum found Dr. Vinod Sharma negligent and awarded compensation, a decision upheld on appeal.",
+    "sections_cited": [],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs.5,00,000 for loss of vision and Rs.1,00,000 for mental agony (total Rs.6,00,000)",
+    "key_reasoning": "The commission held that Dr. Vinod Sharma was medically negligent for implanting an inferior, oversized lens that damaged the cornea and retina, causing permanent impairment. Expert testimony from AIIMS established the causal link between the negligent act and the injury. The evidence satisfied the burden of proof for deficiency in service, justifying the award of compensation and mental agony damages."
+  },
+  {
+    "case_id": "NCDRC-2015-137-145-146",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant, Kavita Ahuja, booked three residential flats in a GDA‑developed project through the developer Shipra Estate Ltd. & Jai Krishna Estate Developers. She paid substantial sums and received allotment letters, but the developer failed to complete construction within the stipulated 22 months. Visits to the site showed virtually no progress. The developer did not respond to her inquiries, offered only a nominal rebate, and refused to refund the amounts paid. The complainant sought a refund of the monies paid, interest at 21% per annum, compensation, and costs of litigation. The key issue before the Commission was whether the complainant qualified as a “consumer” under Section 2(1)(d) of the Consumer Protection Act, given that she had booked three flats, and whether the developer’s delay and refusal to refund constituted a deficiency in service.",
+    "sections_cited": [
+      "2(1)(d)",
+      "2(1)(o)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Refund of the amounts paid for the three flats with interest at 21% per annum and compensation as determined by the Commission",
+    "key_reasoning": "The Commission held that the complainant was a consumer because the flats were purchased for personal use and occupation of herself and her family members, not for a commercial purpose. The developer’s failure to complete construction within the agreed time and its refusal to refund the monies paid constituted a deficiency in service under the Consumer Protection Act. Accordingly, the developer was ordered to refund the amounts paid with statutory interest and to pay compensation for the loss and inconvenience suffered by the consumer."
+  },
+  {
+    "case_id": "SC-2016-226",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainant paid Rs.6,50,000 as booking amount and later Rs.57,97,845 for a residential plot (No. 207, 246.97 sq. yd.) in the IREO Hamlet project, Mohali. The agreement required the developer to complete internal infrastructure (roads, water, sewer, electricity) and deliver possession within 30 months (with a 6‑month grace). The developer repeatedly changed the payment plan, delayed development, and issued a possession letter on 04‑May‑2015 despite the site lacking basic amenities, no approach road, no boundary wall, and no completion certificate. The complainant alleged deficiency in service and unfair trade practice and sought a refund of the amount paid, interest, and compensation for mental agony. The developer argued lack of jurisdiction, that the buyer was an investor, and that only a sale of immovable property (no service) was involved.",
+    "sections_cited": [
+      "17",
+      "2(1)(d)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the buyer was a consumer under Section 2(1)(d) because the plot was purchased for residential use, not for commercial speculation. The agreement expressly obliged the developer to provide internal infrastructure, which constitutes a 'service' under the Consumer Protection Act. The developer's failure to complete the promised infrastructure and to obtain the required completion certificate amounted to deficiency in service and an unfair trade practice. Consequently, the complaint was maintainable and the consumer was entitled to relief."
+  },
+  {
+    "case_id": "NCDRC-2007-557-683",
+    "category": "Unfair trade practice",
+    "facts_summary": "Retired Brigadier Kamal Sood purchased a flat in DLF Qutab Enclave based on a brochure that promised \"escalation‑free\" prices and delivery within a stipulated time. After paying the booking amount, he was later asked to pay additional escalation charges, extra fees for increased area, parking, stamp duty and registration, and faced a three‑year delay in possession. He claimed the builder had engaged in unfair trade practice by advertising escalation‑free prices without obtaining required zoning, layout and building plan approvals, and that he suffered loss due to the delay and unjustified charges. The State Consumer Disputes Redressal Commission awarded him a lump‑sum compensation of Rs.1,00,000 for the delay and directed interest on certain amounts. Both parties appealed to the National Consumer Disputes Redressal Commission.",
+    "sections_cited": [],
+    "outcome": "partial",
+    "compensation_awarded": "Rs.1,00,000 (plus interest on amounts as directed by the State Commission)",
+    "key_reasoning": "The Commission held that the builder’s advertisement of \"escalation‑free\" prices constituted an unfair trade practice, especially since the builder had not secured the necessary governmental permissions before collecting money. The delay in possession could not be justified by the builder’s claim of pending approvals, and the consumer should not bear escalation costs. Accordingly, the builder was ordered to pay compensation for the three‑year delay and interest on amounts retained without justification, while other claims were either partially allowed or dismissed."
+  },
+  {
+    "case_id": "ConsumerCase-1122-2018",
+    "category": "Deficiency in service",
+    "facts_summary": "The complainants paid a total of ₹68,60,316 out of a sale consideration of ₹82,83,311 for an apartment (Unit No. 1303, Tower C) in the \"RISE\" project of Ramprastha Promoters and Blue Bell Proptech. The agreement promised possession by September 2015. Despite repeated payments and visits, the developers failed to complete construction or hand over possession. The developers invoked force‑majeure clauses and a nominal delay compensation of ₹5 per sq. ft. per month, while the complainants sought a full refund of the amounts paid with interest at 18% per annum and ₹5,00,000 for mental agony and litigation costs.",
+    "sections_cited": [
+      "21(a)(i)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Refund of paid amount with interest at 18% p.a. and ₹5,00,000 for mental agony",
+    "key_reasoning": "The Commission held that the developers materially breached the Builder Buyers Agreement by failing to deliver possession on the agreed date and by not providing any substantive justification under the force‑majeure clause. The nominal compensation stipulated in the contract was deemed unreasonable and not a genuine pre‑estimate of loss. Consequently, the consumers were entitled to a full refund of the amounts paid, interest at the contractual rate of 18% per annum, and additional compensation for mental agony and litigation costs."
+  },
+  {
+    "case_id": "NCDRC-2015-345",
+    "category": "Deficiency in service",
+    "facts_summary": "The consumer, Dilshad Gill, purchased a residential unit from Emaar MGF Land Ltd. by taking over the agreement of a previous buyer. Although she paid Rs 43,78,962, the developer repeatedly demanded additional payments, arbitrarily increased the price of the unit and the super‑area, and failed to deliver possession within the contractual period (36 months plus a 3‑month grace). The consumer filed a complaint alleging deficiency in service and unfair trade practice, seeking a refund of the amount paid with interest, compensation for harassment, and costs of litigation. The State Consumer Disputes Redressal Commission partially allowed the complaint, directing the developer to refund Rs 39,41,066 (after a 10% deduction) with interest at 9% per annum and to pay Rs 20,000 as cost of litigation.",
+    "sections_cited": [
+      "19"
+    ],
+    "outcome": "partial",
+    "compensation_awarded": "Rs 20,000 (cost of litigation)",
+    "key_reasoning": "The Commission held that the developer had breached the buyer's agreement by failing to deliver possession within the stipulated time and by unilaterally increasing the price and super‑area beyond the 10% limit without the consumer's consent, constituting a deficiency in service and an unfair trade practice. Consequently, the developer was ordered to refund the amount paid (subject to a 10% deduction) with statutory interest and to pay the consumer's litigation costs."
+  },
+  {
+    "case_id": "CPSC-Madurai-2023-04-26",
+    "category": "Unfair trade practice",
+    "facts_summary": "The complainant, an advocate, purchased a Ford Fiesta Classic car on 26‑09‑2012 and took delivery on 05‑10‑2012. Advertisements by Ford and its authorized dealers claimed a fuel efficiency of 32.38 km/litre, but the car delivered only 17‑18 km/litre. The complainant alleged that the advertisements were misleading, constituting an unfair trade practice and a deficiency in service, and sought a refund of the purchase price (Rs 10,45,803) and compensation for mental agony.",
+    "sections_cited": [
+      "2(r)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs10,000",
+    "key_reasoning": "The Commission held that the advertisements, by prominently stating a mileage of 32.38 km/litre without clearly disclosing the specific test conditions, were deceptive and amounted to an unfair trade practice under Section 2(r) of the Consumer Protection Act, 1986. The omission of the qualifying clause \"as tested by Auto Car cross country drive\" in a conspicuous manner misled the ordinary purchaser, justifying relief in favour of the consumer."
+  },
+  {
+    "case_id": "CSDC-Madurai-2023-04-26-136/2019",
+    "category": "Unfair trade practice",
+    "facts_summary": "The complainant, an advocate, purchased a Ford Fiesta Classic on 5 Oct 2012 after being shown advertisements that claimed a fuel‑economy of 32.38 km/l. The car actually delivered only 17‑18 km/l. The complainant alleged that the advertisements were misleading, constituting an unfair trade practice and a deficiency in service, and claimed the purchase price of Rs 10,45,803 plus compensation for mental agony and costs. The District Commission ordered replacement of the engine and awarded Rs 10,000 for mental agony and Rs 2,000 costs. The parties appealed, and the Circuit Bench examined the advertisements, the lack of proper qualification of the mileage claim, and held the advertisements to be deceptive and unfair under the Consumer Protection Act.",
+    "sections_cited": [
+      "2(r)"
+    ],
+    "outcome": "partial",
+    "compensation_awarded": "Rs 10,000 compensation for mental agony and Rs 2,000 costs (total Rs 12,000)",
+    "key_reasoning": "The Commission found that the advertisements promising 32.38 km/l were not qualified with the test conditions and were presented in a manner that would mislead an ordinary purchaser. Under Section 2(r) of the Consumer Protection Act, such false or unfair representation constitutes an unfair trade practice. Both the manufacturer and the authorized dealers were held liable for the misleading advertisement, leading to an award of compensation for mental agony and costs, though the full purchase price was not refunded."
+  },
+  {
+    "case_id": "CPSC-Madurai-2023-04-26",
+    "category": "Unfair trade practice",
+    "facts_summary": "The complainant, an advocate, purchased a Ford Fiesta Classic car on 26‑09‑2012 and took delivery on 05‑10‑2012. Advertisements by Ford India and its authorized dealers claimed the car would deliver a fuel‑economy of 32.38 km per litre. In actual use the car delivered only 17‑18 km per litre. The complainant alleged that the advertisements were misleading, constituting an unfair trade practice and a deficiency in service, and claimed the purchase price of Rs 10,45,803 plus compensation for mental agony and costs of proceedings.",
+    "sections_cited": [
+      "2(r)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs 10,000 (plus Rs 2,000 costs of proceedings)",
+    "key_reasoning": "The Commission held that the advertisements, by prominently stating a mileage figure without clearly disclosing the specific test conditions, were deceptive and amounted to an unfair trade practice under Section 2(r) of the Consumer Protection Act, 1986. The dealers and the manufacturer were therefore liable to award compensation to the consumer despite the absence of a manufacturing defect."
+  },
+  {
+    "case_id": "NCDRC-2018-3062",
+    "category": "Unfair trade practice",
+    "facts_summary": "The petitioner, M/s Aero Club (Woodland), advertised a flat 35% discount on a T‑shirt with a maximum retail price of Rs.2,195 (inclusive of taxes). The consumer paid Rs.1,498, which is Rs.71.35 higher than the price after applying the 35% discount (Rs.1,426.75). The consumer alleged that the petitioner charged double VAT on the discounted price and refused to cancel the transaction. The consumer filed a complaint seeking a refund of the overcharged amount and compensation of Rs.75,000. The District Forum ruled in favor of the consumer; the State Commission dismissed the petitioner's appeal; the National Consumer Disputes Redressal Commission dismissed the revision petition, upholding the consumer's victory.",
+    "sections_cited": [
+      "2(r)",
+      "2(1)(r)(2)",
+      "2(d)"
+    ],
+    "outcome": "consumer_won",
+    "compensation_awarded": "Rs.75,000",
+    "key_reasoning": "The Commission held that advertising a flat discount and then charging VAT on the discounted price constitutes a misleading advertisement and an unfair trade practice under Section 2(r) of the Consumer Protection Act. Charging extra VAT on a discounted sale deprives the consumer of the promised discount, amounting to a bargain‑price advertisement that is not intended to be honored. Consequently, the petitioner's practice was deemed unfair, and the revision petition was dismissed, confirming the consumer's right to the refund and compensation."
+  },
+  {
+    "case_id": "NC/CCPAA/9/2026",
+    "category": "Unfair trade practice",
+    "facts_summary": "A student (appellant) purchased Oswaal Books based on advertisements claiming the books were aligned with the latest CUET (UG) 2025 exam syllabus. The official syllabus had not been released, and the books were found to be inconsistent with the actual exam pattern. The appellant filed a complaint with the Central Consumer Protection Authority (CCPA). The CCPA issued a communication on 24‑09‑2025 directing the complainant to the National Consumer Helpline, stating the grievance was of an individual nature and outside the CCPA’s purview. The appellant appealed to the National Consumer Disputes Redressal Commission, arguing that the CCPA’s communication was without jurisdiction, that it amounted to an abdication of its quasi‑judicial duties, and that the matter involved unfair trade practice and misleading advertisement requiring investigation under the Consumer Protection Act, 2019.",
+    "sections_cited": [
+      "10(1)",
+      "18",
+      "19",
+      "20",
+      "21",
+      "24"
+    ],
+    "outcome": "partial",
+    "compensation_awarded": "None",
+    "key_reasoning": "The Commission held that the CCPA’s communication was not a valid decision and was issued by an officer without authority, thereby violating the procedural requirements of Sections 18‑21 of the Consumer Protection Act, 2019. Since the complaint involved alleged unfair trade practice and misleading advertisement, the matter falls within the CCPA’s quasi‑judicial jurisdiction, and the appellant is entitled to have the complaint investigated afresh. Accordingly, the appeal was entertained and the order of the CCPA was set aside, with a direction to the Central Authority to conduct a proper investigation and pass a reasoned order."
   }
 ]
