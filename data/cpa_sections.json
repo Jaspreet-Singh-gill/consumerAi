@@ -1,8 +1,8 @@
 [
   {
-    "section_no": "1",
+    "section_no": "1(1)",
     "title": "Short title, extent, commencement and application",
-    "text": "(1) This Act may be called the Consumer Protection Act, 2019.\n(2) It extends to the whole of India except the State of Jammu and Kashmir.\n(3) It shall come into force on such date as the Central Government may, by notification, appoint and different dates may be appointed for different States and for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.\n(4) Save as otherwise expressly provided by the Central Government, by notification, this Act shall apply to all goods and services.",
+    "text": "(1) This Act may be called the Consumer Protection Act, 2019.",
     "category_tags": [
       "General",
       "Short title",
@@ -12,9 +12,277 @@
     ]
   },
   {
-    "section_no": "2",
+    "section_no": "1(2)",
+    "title": "Short title, extent, commencement and application",
+    "text": "(2) It extends to the whole of India except the State of Jammu and Kashmir.",
+    "category_tags": [
+      "General",
+      "Short title",
+      "Extent",
+      "Commencement",
+      "Application"
+    ]
+  },
+  {
+    "section_no": "1(3)",
+    "title": "Short title, extent, commencement and application",
+    "text": "(3) It shall come into force on such date as the Central Government may, by notification, appoint and different dates may be appointed for different States and for different provisions of this Act and any reference in any such provision to the commencement of this Act shall be construed as a reference to the coming into force of that provision.",
+    "category_tags": [
+      "General",
+      "Short title",
+      "Extent",
+      "Commencement",
+      "Application"
+    ]
+  },
+  {
+    "section_no": "1(4)",
+    "title": "Short title, extent, commencement and application",
+    "text": "(4) Save as otherwise expressly provided by the Central Government, by notification, this Act shall apply to all goods and services.",
+    "category_tags": [
+      "General",
+      "Short title",
+      "Extent",
+      "Commencement",
+      "Application"
+    ]
+  },
+  {
+    "section_no": "2(1)",
     "title": "Definitions",
-    "text": "(1) \"advertisement\" means any audio or visual publicity, representation, endorsement or pronouncement made by means of light, sound, smoke, gas, print, electronic media, internet or website and includes any notice, circular, label, wrapper, invoice or such other documents;\n(2) \"appropriate laboratory\" means a laboratory or an organisation—\n(i) recognised by the Central Government; or\n(ii) recognised by a State Government, subject to such guidelines as may be issued by the Central Government in this behalf; or\n(iii) established by or under any law for the time being in force, which is maintained, financed or aided by the Central Government or a State Government for carrying out analysis or test of any goods with a view to determining whether such goods suffer from any defect;\n(3) \"branch office\" means—\n(i) any office or place of work described as a branch by the establishment; or\n(ii) any establishment carrying on either the same or substantially the same activity carried on by the head office of the establishment;\n(4) \"Central Authority\" means the Central Consumer Protection Authority established under section 10;\n(5) \"complainant\" means—\n(i) a consumer; or\n(ii) any voluntary consumer association registered under any law for the time being in force; or\n(iii) the Central Government or any State Government; or\n(iv) the Central Authority; or\n(v) one or more consumers, where there are numerous consumers having the same interest; or\n(vi) in case of death of a consumer, his legal heir or legal representative; or\n(vii) in case of a consumer being a minor, his parent or legal guardian;\n(6) \"complaint\" means any allegation in writing, made by a complainant for obtaining any relief provided by or under this Act, that—\n(i) an unfair contract or unfair trade practice or a restrictive trade practice has been adopted by any trader or service provider;\n(ii) the goods bought by him or agreed to be bought by him suffer from one or more defects;\n(iii) the services hired or availed of or agreed to be hired or availed of by him suffer from any deficiency;\n(iv) a trader or a service provider, as the case may be, has charged for the goods or for the services mentioned in the complaint, a price in excess of the price—\n(a) fixed by or under any law for the time being in force; or\n(b) displayed on the goods or any package containing such goods; or\n(c) displayed on the price list exhibited by him by or under any law for the time being in force; or\n(d) agreed between the parties;\n(v) the goods, which are hazardous to life and safety when used, are being offered for sale to the public—\n(a) in contravention of standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force;\n(b) where the trader knows that the goods so offered are unsafe to the public;\n(vi) the services which are hazardous or likely to be hazardous to life and safety of the public when used, are being offered by a person who provides any",
+    "text": "(1) \"advertisement\" means any audio or visual publicity, representation, endorsement or pronouncement made by means of light, sound, smoke, gas, print, electronic media, internet or website and includes any notice, circular, label, wrapper, invoice or such other documents;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(2)",
+    "title": "Definitions",
+    "text": "(2) \"appropriate laboratory\" means a laboratory or an organisation—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(2)(i)",
+    "title": "Definitions",
+    "text": "(i) recognised by the Central Government; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(2)(ii)",
+    "title": "Definitions",
+    "text": "(ii) recognised by a State Government, subject to such guidelines as may be issued by the Central Government in this behalf; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(2)(iii)",
+    "title": "Definitions",
+    "text": "(iii) established by or under any law for the time being in force, which is maintained, financed or aided by the Central Government or a State Government for carrying out analysis or test of any goods with a view to determining whether such goods suffer from any defect;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(3)",
+    "title": "Definitions",
+    "text": "(3) \"branch office\" means—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(3)(i)",
+    "title": "Definitions",
+    "text": "(i) any office or place of work described as a branch by the establishment; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(3)(ii)",
+    "title": "Definitions",
+    "text": "(ii) any establishment carrying on either the same or substantially the same activity carried on by the head office of the establishment;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(4)",
+    "title": "Definitions",
+    "text": "(4) \"Central Authority\" means the Central Consumer Protection Authority established under section 10;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)",
+    "title": "Definitions",
+    "text": "(5) \"complainant\" means—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(i)",
+    "title": "Definitions",
+    "text": "(i) a consumer; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(ii)",
+    "title": "Definitions",
+    "text": "(ii) any voluntary consumer association registered under any law for the time being in force; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(iii)",
+    "title": "Definitions",
+    "text": "(iii) the Central Government or any State Government; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(iv)",
+    "title": "Definitions",
+    "text": "(iv) the Central Authority; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(v)",
+    "title": "Definitions",
+    "text": "(v) one or more consumers, where there are numerous consumers having the same interest; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(v)(vi)",
+    "title": "Definitions",
+    "text": "(vi) in case of death of a consumer, his legal heir or legal representative; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(5)(v)(vii)",
+    "title": "Definitions",
+    "text": "(vii) in case of a consumer being a minor, his parent or legal guardian;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)",
+    "title": "Definitions",
+    "text": "(6) \"complaint\" means any allegation in writing, made by a complainant for obtaining any relief provided by or under this Act, that—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(i)",
+    "title": "Definitions",
+    "text": "(i) an unfair contract or unfair trade practice or a restrictive trade practice has been adopted by any trader or service provider;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(ii)",
+    "title": "Definitions",
+    "text": "(ii) the goods bought by him or agreed to be bought by him suffer from one or more defects;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(iii)",
+    "title": "Definitions",
+    "text": "(iii) the services hired or availed of or agreed to be hired or availed of by him suffer from any deficiency;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(iv)",
+    "title": "Definitions",
+    "text": "(iv) a trader or a service provider, as the case may be, has charged for the goods or for the services mentioned in the complaint, a price in excess of the price—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(a)",
+    "title": "Definitions",
+    "text": "(a) fixed by or under any law for the time being in force; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(b)",
+    "title": "Definitions",
+    "text": "(b) displayed on the goods or any package containing such goods; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(c)",
+    "title": "Definitions",
+    "text": "(c) displayed on the price list exhibited by him by or under any law for the time being in force; or",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(d)",
+    "title": "Definitions",
+    "text": "(d) agreed between the parties;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(v)",
+    "title": "Definitions",
+    "text": "(v) the goods, which are hazardous to life and safety when used, are being offered for sale to the public—",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(a)",
+    "title": "Definitions",
+    "text": "(a) in contravention of standards relating to safety of such goods as required to be complied with, by or under any law for the time being in force;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(b)",
+    "title": "Definitions",
+    "text": "(b) where the trader knows that the goods so offered are unsafe to the public;",
+    "category_tags": [
+      "Definitions"
+    ]
+  },
+  {
+    "section_no": "2(6)(b)(vi)",
+    "title": "Definitions",
+    "text": "(vi) the services which are hazardous or likely to be hazardous to life and safety of the public when used, are being offered by a person who provides any",
     "category_tags": [
       "Definitions"
     ]
@@ -22,7 +290,43 @@
   {
     "section_no": "2(7)",
     "title": "Definition of \"consumer\"",
-    "text": "\"consumer\" means any person who—\n(i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose; or\n(ii) hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any beneficiary of such service other than the person who hires or avails of the services for consideration paid or promised, or partly paid and partly promised, or under any system of deferred payment, when such services are availed of with the approval of the first mentioned person, but does not include a person who avails of such service for any commercial purpose.\nExplanation.—For the purposes of this clause,—\n(a) the expression \"commercial purpose\" does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self‑employment;\n(b) the expressions \"buys any goods\" and \"hires or avails any services\" includes offline or online transactions through electronic means or by teleshopping or direct selling or multi‑level marketing;",
+    "text": "\"consumer\" means any person who—",
+    "category_tags": [
+      "Definition",
+      "Consumer"
+    ]
+  },
+  {
+    "section_no": "2(7)(i)",
+    "title": "Definition of \"consumer\"",
+    "text": "(i) buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any user of such goods other than the person who buys such goods for consideration paid or promised or partly paid or partly promised, or under any system of deferred payment, when such use is made with the approval of such person, but does not include a person who obtains such goods for resale or for any commercial purpose; or",
+    "category_tags": [
+      "Definition",
+      "Consumer"
+    ]
+  },
+  {
+    "section_no": "2(7)(ii)",
+    "title": "Definition of \"consumer\"",
+    "text": "(ii) hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment and includes any beneficiary of such service other than the person who hires or avails of the services for consideration paid or promised, or partly paid and partly promised, or under any system of deferred payment, when such services are availed of with the approval of the first mentioned person, but does not include a person who avails of such service for any commercial purpose.\nExplanation.—For the purposes of this clause,—",
+    "category_tags": [
+      "Definition",
+      "Consumer"
+    ]
+  },
+  {
+    "section_no": "2(7)(a)",
+    "title": "Definition of \"consumer\"",
+    "text": "(a) the expression \"commercial purpose\" does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self‑employment;",
+    "category_tags": [
+      "Definition",
+      "Consumer"
+    ]
+  },
+  {
+    "section_no": "2(7)(b)",
+    "title": "Definition of \"consumer\"",
+    "text": "(b) the expressions \"buys any goods\" and \"hires or avails any services\" includes offline or online transactions through electronic means or by teleshopping or direct selling or multi‑level marketing;",
     "category_tags": [
       "Definition",
       "Consumer"
@@ -40,7 +344,61 @@
   {
     "section_no": "2(9)",
     "title": "Definition of \"consumer rights\"",
-    "text": "\"consumer rights\" includes,—\n(i) the right to be protected against the marketing of goods, products or services which are hazardous to life and property;\n(ii) the right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services, as the case may be, so as to protect the consumer against unfair trade practices;\n(iii) the right to be assured, wherever possible, access to a variety of goods, products or services at competitive prices;\n(iv) the right to be heard and to be assured that consumer's interests will receive due consideration at appropriate fora;\n(v) the right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers; and\n(vi) the right to consumer awareness;",
+    "text": "\"consumer rights\" includes,—",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(i)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(i) the right to be protected against the marketing of goods, products or services which are hazardous to life and property;",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(ii)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(ii) the right to be informed about the quality, quantity, potency, purity, standard and price of goods, products or services, as the case may be, so as to protect the consumer against unfair trade practices;",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(iii)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(iii) the right to be assured, wherever possible, access to a variety of goods, products or services at competitive prices;",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(iv)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(iv) the right to be heard and to be assured that consumer's interests will receive due consideration at appropriate fora;",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(v)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(v) the right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers; and",
+    "category_tags": [
+      "Definition",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "2(9)(v)(vi)",
+    "title": "Definition of \"consumer rights\"",
+    "text": "(vi) the right to consumer awareness;",
     "category_tags": [
       "Definition",
       "Consumer Rights"
@@ -58,7 +416,25 @@
   {
     "section_no": "2(11)",
     "title": "Definition of \"deficiency\"",
-    "text": "\"deficiency\" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes—\n(i) any act of negligence or omission or commission by such person which causes loss or injury to the consumer; and\n(ii) deliberate withholding of relevant information by such person to the consumer;",
+    "text": "\"deficiency\" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes—",
+    "category_tags": [
+      "Definition",
+      "Deficient Services"
+    ]
+  },
+  {
+    "section_no": "2(11)(i)",
+    "title": "Definition of \"deficiency\"",
+    "text": "(i) any act of negligence or omission or commission by such person which causes loss or injury to the consumer; and",
+    "category_tags": [
+      "Definition",
+      "Deficient Services"
+    ]
+  },
+  {
+    "section_no": "2(11)(ii)",
+    "title": "Definition of \"deficiency\"",
+    "text": "(ii) deliberate withholding of relevant information by such person to the consumer;",
     "category_tags": [
       "Definition",
       "Deficient Services"
@@ -123,7 +499,37 @@
   {
     "section_no": "2(18)",
     "title": "Definition of \"endorsement\" (advertisement)",
-    "text": "\"endorsement\", in relation to an advertisement, means—\n(i) any message, verbal statement, demonstration; or\n(ii) depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or\n(iii) depiction of the name or seal of any institution or organisation;",
+    "text": "\"endorsement\", in relation to an advertisement, means—",
+    "category_tags": [
+      "Definition",
+      "Advertising",
+      "Endorsement"
+    ]
+  },
+  {
+    "section_no": "2(18)(i)",
+    "title": "Definition of \"endorsement\" (advertisement)",
+    "text": "(i) any message, verbal statement, demonstration; or",
+    "category_tags": [
+      "Definition",
+      "Advertising",
+      "Endorsement"
+    ]
+  },
+  {
+    "section_no": "2(18)(ii)",
+    "title": "Definition of \"endorsement\" (advertisement)",
+    "text": "(ii) depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or",
+    "category_tags": [
+      "Definition",
+      "Advertising",
+      "Endorsement"
+    ]
+  },
+  {
+    "section_no": "2(18)(iii)",
+    "title": "Definition of \"endorsement\" (advertisement)",
+    "text": "(iii) depiction of the name or seal of any institution or organisation;",
     "category_tags": [
       "Definition",
       "Advertising",
@@ -297,7 +703,79 @@
   {
     "section_no": "37",
     "title": "\"product seller\" definition",
-    "text": "\"product seller\", in relation to a product, means a person who, in the course of business, imports, sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains, or otherwise is involved in placing such product for commercial purpose and includes—\n(i) a manufacturer who is also a product seller; or\n(ii) a service provider, but does not include—\n(a) a seller of immovable property, unless such person is engaged in the sale of constructed house or in the construction of homes or flats;\n(b) a provider of professional services in any transaction in which, the sale or use of a product is only incidental thereto, but furnishing of opinion, skill or services being the essence of such transaction;\n(c) a person who—\n(I) acts only in a financial capacity with respect to the sale of the product;\n(II) is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider;\n(III) leases a product, without having a reasonable opportunity to inspect and discover defects in the product, under a lease arrangement in which the selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor;",
+    "text": "\"product seller\", in relation to a product, means a person who, in the course of business, imports, sells, distributes, leases, installs, prepares, packages, labels, markets, repairs, maintains, or otherwise is involved in placing such product for commercial purpose and includes—",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(i)",
+    "title": "\"product seller\" definition",
+    "text": "(i) a manufacturer who is also a product seller; or",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(ii)",
+    "title": "\"product seller\" definition",
+    "text": "(ii) a service provider, but does not include—",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(a)",
+    "title": "\"product seller\" definition",
+    "text": "(a) a seller of immovable property, unless such person is engaged in the sale of constructed house or in the construction of homes or flats;",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(b)",
+    "title": "\"product seller\" definition",
+    "text": "(b) a provider of professional services in any transaction in which, the sale or use of a product is only incidental thereto, but furnishing of opinion, skill or services being the essence of such transaction;",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(c)",
+    "title": "\"product seller\" definition",
+    "text": "(c) a person who—",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(c)(I)",
+    "title": "\"product seller\" definition",
+    "text": "(I) acts only in a financial capacity with respect to the sale of the product;",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(c)(II)",
+    "title": "\"product seller\" definition",
+    "text": "(II) is not a manufacturer, wholesaler, distributor, retailer, direct seller or an electronic service provider;",
+    "category_tags": [
+      "Definition",
+      "Product seller"
+    ]
+  },
+  {
+    "section_no": "37(c)(III)",
+    "title": "\"product seller\" definition",
+    "text": "(III) leases a product, without having a reasonable opportunity to inspect and discover defects in the product, under a lease arrangement in which the selection, possession, maintenance, and operation of the product are controlled by a person other than the lessor;",
     "category_tags": [
       "Definition",
       "Product seller"
@@ -333,7 +811,25 @@
   {
     "section_no": "41",
     "title": "\"restrictive trade practice\" definition",
-    "text": "\"restrictive trade practice\" means a trade practice which tends to bring about manipulation of price or its conditions of delivery or to affect flow of supplies in the market relating to goods or services in such a manner as to impose on the consumers unjustified costs or restrictions and shall include—\n(i) delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price;\n(ii) any trade practice which requires a consumer to buy, hire or avail of any goods or, as the case may be, services as condition precedent for buying, hiring or availing of other goods or services;",
+    "text": "\"restrictive trade practice\" means a trade practice which tends to bring about manipulation of price or its conditions of delivery or to affect flow of supplies in the market relating to goods or services in such a manner as to impose on the consumers unjustified costs or restrictions and shall include—",
+    "category_tags": [
+      "Restrictive trade practice",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "41(i)",
+    "title": "\"restrictive trade practice\" definition",
+    "text": "(i) delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price;",
+    "category_tags": [
+      "Restrictive trade practice",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "41(ii)",
+    "title": "\"restrictive trade practice\" definition",
+    "text": "(ii) any trade practice which requires a consumer to buy, hire or avail of any goods or, as the case may be, services as condition precedent for buying, hiring or availing of other goods or services;",
     "category_tags": [
       "Restrictive trade practice",
       "Definition"
@@ -378,7 +874,61 @@
   {
     "section_no": "46",
     "title": "\"unfair contract\" definition",
-    "text": "\"unfair contract\" means a contract between a manufacturer or trader or service provider on one hand, and a consumer on the other, having such terms which cause significant change in the rights of such consumer, including the following, namely:—\n(i) requiring manifestly excessive security deposits to be given by a consumer for the performance of contractual obligations;\n(ii) imposing any penalty on the consumer, for the breach of contract thereof which is wholly disproportionate to the loss occurred due to such breach to the other party to the contract;\n(iii) refusing to accept early repayment of debts on payment of applicable penalty;\n(iv) entitling a party to the contract to terminate such contract unilaterally, without reasonable cause;\n(v) permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer, without his consent;\n(vi) imposing on the consumer any unreasonable charge, obligation or condition which puts such consumer to disadvantage;",
+    "text": "\"unfair contract\" means a contract between a manufacturer or trader or service provider on one hand, and a consumer on the other, having such terms which cause significant change in the rights of such consumer, including the following, namely:—",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(i)",
+    "title": "\"unfair contract\" definition",
+    "text": "(i) requiring manifestly excessive security deposits to be given by a consumer for the performance of contractual obligations;",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(ii)",
+    "title": "\"unfair contract\" definition",
+    "text": "(ii) imposing any penalty on the consumer, for the breach of contract thereof which is wholly disproportionate to the loss occurred due to such breach to the other party to the contract;",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(iii)",
+    "title": "\"unfair contract\" definition",
+    "text": "(iii) refusing to accept early repayment of debts on payment of applicable penalty;",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(iv)",
+    "title": "\"unfair contract\" definition",
+    "text": "(iv) entitling a party to the contract to terminate such contract unilaterally, without reasonable cause;",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(v)",
+    "title": "\"unfair contract\" definition",
+    "text": "(v) permitting or has the effect of permitting one party to assign the contract to the detriment of the other party who is a consumer, without his consent;",
+    "category_tags": [
+      "Unfair contract",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "46(v)(vi)",
+    "title": "\"unfair contract\" definition",
+    "text": "(vi) imposing on the consumer any unreasonable charge, obligation or condition which puts such consumer to disadvantage;",
     "category_tags": [
       "Unfair contract",
       "Definition"
@@ -387,16 +937,34 @@
   {
     "section_no": "47",
     "title": "\"unfair trade practice\" definition",
-    "text": "\"unfair trade practice\" means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:—\n(i) making any statement, whether orally or in writing or by visible representation including by means of electronic record, which—\n(a) falsely represents that the goods are of a particular standard, quality",
+    "text": "\"unfair trade practice\" means a trade practice which, for the purpose of promoting the sale, use or supply of any goods or for the provision of any service, adopts any unfair method or unfair or deceptive practice including any of the following practices, namely:—",
     "category_tags": [
       "Unfair trade practice",
       "Definition"
     ]
   },
   {
-    "section_no": "2(1)",
+    "section_no": "47(i)",
+    "title": "\"unfair trade practice\" definition",
+    "text": "(i) making any statement, whether orally or in writing or by visible representation including by means of electronic record, which—",
+    "category_tags": [
+      "Unfair trade practice",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "47(a)",
+    "title": "\"unfair trade practice\" definition",
+    "text": "(a) falsely represents that the goods are of a particular standard, quality",
+    "category_tags": [
+      "Unfair trade practice",
+      "Definition"
+    ]
+  },
+  {
+    "section_no": "2(1)(a)",
     "title": "Unfair trade practice",
-    "text": "(a) falsely represents that the goods are of a particular quantity, grade, composition, style or model;\n(b) falsely represents that the services are of a particular standard, quality or grade;\n(c) falsely represents any re-built, second-hand, renovated, reconditioned or old goods as new goods;\n(d) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories, uses or benefits which such goods or services do not have;\n(e) represents that the seller or the supplier has a sponsorship or approval or affiliation which such seller or supplier does not have;\n(f) makes a false or misleading representation concerning the need for, or the usefulness of, any goods or services;\n(g) gives to the public any warranty or guarantee of the performance, efficacy or length of life of a product or of any goods that is not based on an adequate or proper test thereof: Provided that where a defence is raised to the effect that such warranty or guarantee is based on adequate or proper test, the burden of proof of such defence shall lie on the person raising such defence;\n(h) makes to the public a representation in a form that purports to be—\n   (A) a warranty or guarantee of a product or of any goods or services; or\n   (B) a promise to replace, maintain or repair an article or any part thereof or to repeat or continue a service until it has achieved a specified result, if such purported warranty or guarantee or promise is materially misleading or if there is no reasonable prospect that such warranty, guarantee or promise will be carried out;\n(i) materially misleads the public concerning the price at which a product or like products or goods or services, have been or are, ordinarily sold or provided, and, for this purpose, a representation as to price shall be deemed to refer to the price at which the product or goods or services has or have been sold by sellers or provided by suppliers generally in the relevant market unless it is clearly specified to be the price at which the product has been sold or services have been provided by the person by whom or on whose behalf the representation is made;\n(j) gives false or misleading facts disparaging the goods, services or trade of another person.\nExplanation.— For the purposes of this sub-clause, a statement that is,—\n   (A) expressed on an article offered or displayed for sale, or on its wrapper or container; or\n   (B) expressed on anything attached to, inserted in, or accompanying, an article offered or displayed for sale, or on anything on which the article is mounted for display or sale; or\n   (C) contained in or on anything that is sold, sent, delivered, transmitted or in any other manner whatsoever made available to a member of the public, shall be deemed to be a statement made to the public by, and only by, the person who had caused the statement to be so expressed, made or contained;\n(ii) permitting the publication of any advertisement, whether in any newspaper or otherwise, including by way of electronic record, for the sale or supply at a bargain price of goods or services that are not intended to be offered for sale or supply at the bargain price, or for a period that is, and in quantities that are, reasonable, having regard to the nature of the market in which the business is carried on, the nature and size of business, and the nature of the advertisement.\nExplanation. —For the purpose of this sub-clause, \"bargain price\" means,—\n   (A) a price that is stated in any advertisement to be a bargain price, by reference to an ordinary price or otherwise; or\n   (B) a price that a person who reads, hears or sees the advertisement, would reasonably understand to be a bargain price having regard to the prices at which the product advertised or like products are ordinarily sold;\n(iii) permitting—\n   (a) the offering of gifts, prizes or other items with the intention of not providing them as offered or creating impression that something is being given or offered free of charge when it is fully or partly covered by the amount charged, in the transaction as a whole;\n   (b) the conduct of any contest, lottery, game of chance or skill, for the purpose of promoting, directly or indirectly, the sale, use or supply of any product or any business interest, except such contest, lottery, game of chance or skill as may be prescribed;\n   (c) withholding from the participants of any scheme offering gifts, prizes or other items free of charge on its closure, the information about final results of the scheme.\nExplanation. —For the purpose of this sub-clause, the participants of a scheme shall be deemed to have been informed of the final results of the scheme where such results are within a reasonable time published, prominently in the same newspaper in which the scheme was originally advertised;\n(iv) permitting the sale or supply of goods intended to be used, or are of a kind likely to be used by consumers, knowing or having reason to believe that the goods do not conform to any standard, specification or label required by law, or that the goods are unsafe for use.",
+    "text": "(a) falsely represents that the goods are of a particular quantity, grade, composition, style or model;",
     "category_tags": [
       "Unfair trade practice",
       "Misleading advertisement",
@@ -406,9 +974,153 @@
     ]
   },
   {
-    "section_no": "3",
+    "section_no": "2(1)(b)",
+    "title": "Unfair trade practice",
+    "text": "(b) falsely represents that the services are of a particular standard, quality or grade;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(c)",
+    "title": "Unfair trade practice",
+    "text": "(c) falsely represents any re-built, second-hand, renovated, reconditioned or old goods as new goods;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(d)",
+    "title": "Unfair trade practice",
+    "text": "(d) represents that the goods or services have sponsorship, approval, performance, characteristics, accessories, uses or benefits which such goods or services do not have;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(e)",
+    "title": "Unfair trade practice",
+    "text": "(e) represents that the seller or the supplier has a sponsorship or approval or affiliation which such seller or supplier does not have;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(f)",
+    "title": "Unfair trade practice",
+    "text": "(f) makes a false or misleading representation concerning the need for, or the usefulness of, any goods or services;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(g)",
+    "title": "Unfair trade practice",
+    "text": "(g) gives to the public any warranty or guarantee of the performance, efficacy or length of life of a product or of any goods that is not based on an adequate or proper test thereof: Provided that where a defence is raised to the effect that such warranty or guarantee is based on adequate or proper test, the burden of proof of such defence shall lie on the person raising such defence;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(h)",
+    "title": "Unfair trade practice",
+    "text": "(h) makes to the public a representation in a form that purports to be—\n   (A) a warranty or guarantee of a product or of any goods or services; or\n   (B) a promise to replace, maintain or repair an article or any part thereof or to repeat or continue a service until it has achieved a specified result, if such purported warranty or guarantee or promise is materially misleading or if there is no reasonable prospect that such warranty, guarantee or promise will be carried out;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(h)(i)",
+    "title": "Unfair trade practice",
+    "text": "(i) materially misleads the public concerning the price at which a product or like products or goods or services, have been or are, ordinarily sold or provided, and, for this purpose, a representation as to price shall be deemed to refer to the price at which the product or goods or services has or have been sold by sellers or provided by suppliers generally in the relevant market unless it is clearly specified to be the price at which the product has been sold or services have been provided by the person by whom or on whose behalf the representation is made;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(j)",
+    "title": "Unfair trade practice",
+    "text": "(j) gives false or misleading facts disparaging the goods, services or trade of another person.\nExplanation.— For the purposes of this sub-clause, a statement that is,—\n   (A) expressed on an article offered or displayed for sale, or on its wrapper or container; or\n   (B) expressed on anything attached to, inserted in, or accompanying, an article offered or displayed for sale, or on anything on which the article is mounted for display or sale; or\n   (C) contained in or on anything that is sold, sent, delivered, transmitted or in any other manner whatsoever made available to a member of the public, shall be deemed to be a statement made to the public by, and only by, the person who had caused the statement to be so expressed, made or contained;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(j)(ii)",
+    "title": "Unfair trade practice",
+    "text": "(ii) permitting the publication of any advertisement, whether in any newspaper or otherwise, including by way of electronic record, for the sale or supply at a bargain price of goods or services that are not intended to be offered for sale or supply at the bargain price, or for a period that is, and in quantities that are, reasonable, having regard to the nature of the market in which the business is carried on, the nature and size of business, and the nature of the advertisement.\nExplanation. —For the purpose of this sub-clause, \"bargain price\" means,—\n   (A) a price that is stated in any advertisement to be a bargain price, by reference to an ordinary price or otherwise; or\n   (B) a price that a person who reads, hears or sees the advertisement, would reasonably understand to be a bargain price having regard to the prices at which the product advertised or like products are ordinarily sold;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(j)(iii)",
+    "title": "Unfair trade practice",
+    "text": "(iii) permitting—\n   (a) the offering of gifts, prizes or other items with the intention of not providing them as offered or creating impression that something is being given or offered free of charge when it is fully or partly covered by the amount charged, in the transaction as a whole;\n   (b) the conduct of any contest, lottery, game of chance or skill, for the purpose of promoting, directly or indirectly, the sale, use or supply of any product or any business interest, except such contest, lottery, game of chance or skill as may be prescribed;\n   (c) withholding from the participants of any scheme offering gifts, prizes or other items free of charge on its closure, the information about final results of the scheme.\nExplanation. —For the purpose of this sub-clause, the participants of a scheme shall be deemed to have been informed of the final results of the scheme where such results are within a reasonable time published, prominently in the same newspaper in which the scheme was originally advertised;",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "2(1)(j)(iv)",
+    "title": "Unfair trade practice",
+    "text": "(iv) permitting the sale or supply of goods intended to be used, or are of a kind likely to be used by consumers, knowing or having reason to believe that the goods do not conform to any standard, specification or label required by law, or that the goods are unsafe for use.",
+    "category_tags": [
+      "Unfair trade practice",
+      "Misleading advertisement",
+      "False representation",
+      "Bargain price deception",
+      "Gift/Prize scheme deception"
+    ]
+  },
+  {
+    "section_no": "3(1)",
     "title": "Establishment of Central Consumer Protection Council",
-    "text": "(1) The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, the Central Consumer Protection Council to be known as the Central Council.\n(2) The Central Council shall be an advisory council and consist of the following members, namely:—\n(a) the Minister-in-charge of the Department of Consumer Affairs in the Central Government, who shall be the Chairperson; and\n(b) such number of other official or non-official members representing such interests as may be prescribed.",
+    "text": "(1) The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, the Central Consumer Protection Council to be known as the Central Council.",
     "category_tags": [
       "Consumer Protection Council",
       "Central Council",
@@ -416,9 +1128,49 @@
     ]
   },
   {
-    "section_no": "4",
+    "section_no": "3(2)",
+    "title": "Establishment of Central Consumer Protection Council",
+    "text": "(2) The Central Council shall be an advisory council and consist of the following members, namely:—",
+    "category_tags": [
+      "Consumer Protection Council",
+      "Central Council",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "3(2)(a)",
+    "title": "Establishment of Central Consumer Protection Council",
+    "text": "(a) the Minister-in-charge of the Department of Consumer Affairs in the Central Government, who shall be the Chairperson; and",
+    "category_tags": [
+      "Consumer Protection Council",
+      "Central Council",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "3(2)(b)",
+    "title": "Establishment of Central Consumer Protection Council",
+    "text": "(b) such number of other official or non-official members representing such interests as may be prescribed.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "Central Council",
+      "Consumer Rights"
+    ]
+  },
+  {
+    "section_no": "4(1)",
     "title": "Meetings of Central Council",
-    "text": "(1) The Central Council shall meet as and when necessary, but at least one meeting of the Council shall be held every year.\n(2) The Central Council shall meet at such time and place as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed.",
+    "text": "(1) The Central Council shall meet as and when necessary, but at least one meeting of the Council shall be held every year.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "Central Council",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "4(2)",
+    "title": "Meetings of Central Council",
+    "text": "(2) The Central Council shall meet at such time and place as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed.",
     "category_tags": [
       "Consumer Protection Council",
       "Central Council",
@@ -436,9 +1188,75 @@
     ]
   },
   {
-    "section_no": "6",
+    "section_no": "6(1)",
     "title": "Establishment and Composition of State Consumer Protection Council",
-    "text": "(1) Every State Government shall, by notification, establish with effect from such date as it may specify in such notification, a State Consumer Protection Council for such State to be known as the State Council.\n(2) The State Council shall be an advisory council and consist of the following members, namely:—\n(a) the Minister-in-charge of Consumer Affairs in the State Government who shall be the Chairperson;\n(b) such number of other official or non-official members representing such interests as may be prescribed;\n(c) such number of other official or non-official members, not exceeding ten, as may be nominated by the Central Government.\n(3) The State Council shall meet as and when necessary but not less than two meetings shall be held every year.\n(4) The State Council shall meet at such time and place as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business, as may be prescribed.",
+    "text": "(1) Every State Government shall, by notification, establish with effect from such date as it may specify in such notification, a State Consumer Protection Council for such State to be known as the State Council.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(2)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(2) The State Council shall be an advisory council and consist of the following members, namely:—",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(2)(a)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(a) the Minister-in-charge of Consumer Affairs in the State Government who shall be the Chairperson;",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(2)(b)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(b) such number of other official or non-official members representing such interests as may be prescribed;",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(2)(c)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(c) such number of other official or non-official members, not exceeding ten, as may be nominated by the Central Government.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(3)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(3) The State Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "State Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "6(4)",
+    "title": "Establishment and Composition of State Consumer Protection Council",
+    "text": "(4) The State Council shall meet at such time and place as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business, as may be prescribed.",
     "category_tags": [
       "Consumer Protection Council",
       "State Council",
@@ -457,9 +1275,64 @@
     ]
   },
   {
-    "section_no": "8",
+    "section_no": "8(1)",
     "title": "Establishment and Composition of District Consumer Protection Council",
-    "text": "(1) The State Government shall, by notification, establish for every District with effect from such date as it may specify in such notification, a District Consumer Protection Council to be known as the District Council.\n(2) The District Council shall be an advisory council and consist of the following members, namely:—\n(a) the Collector of the district (by whatever name called), who shall be the Chairperson; and\n(b) such number of other official and non-official members representing such interests as may be prescribed.\n(3) The District Council shall meet as and when necessary but not less than two meetings shall be held every year.\n(4) The District Council shall meet at such time and place within the district as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed.",
+    "text": "(1) The State Government shall, by notification, establish for every District with effect from such date as it may specify in such notification, a District Consumer Protection Council to be known as the District Council.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "District Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "8(2)",
+    "title": "Establishment and Composition of District Consumer Protection Council",
+    "text": "(2) The District Council shall be an advisory council and consist of the following members, namely:—",
+    "category_tags": [
+      "Consumer Protection Council",
+      "District Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "8(2)(a)",
+    "title": "Establishment and Composition of District Consumer Protection Council",
+    "text": "(a) the Collector of the district (by whatever name called), who shall be the Chairperson; and",
+    "category_tags": [
+      "Consumer Protection Council",
+      "District Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "8(2)(b)",
+    "title": "Establishment and Composition of District Consumer Protection Council",
+    "text": "(b) such number of other official and non-official members representing such interests as may be prescribed.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "District Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "8(3)",
+    "title": "Establishment and Composition of District Consumer Protection Council",
+    "text": "(3) The District Council shall meet as and when necessary but not less than two meetings shall be held every year.",
+    "category_tags": [
+      "Consumer Protection Council",
+      "District Council",
+      "Consumer Rights",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "8(4)",
+    "title": "Establishment and Composition of District Consumer Protection Council",
+    "text": "(4) The District Council shall meet at such time and place within the district as the Chairperson may think fit and shall observe such procedure in regard to the transaction of its business as may be prescribed.",
     "category_tags": [
       "Consumer Protection Council",
       "District Council",
@@ -478,7 +1351,7 @@
     ]
   },
   {
-    "section_no": "10",
+    "section_no": "10(1)",
     "title": "Establishment of Central Consumer Protection Authority",
     "text": "(1) The Central Government shall, by notification, establish with effect from such date as it may specify in that notification, a Central Consumer Protection Authority to be known as the Central Authority to regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements which are prejudici",
     "category_tags": [
@@ -512,7 +1385,7 @@
     ]
   },
   {
-    "section_no": "13",
+    "section_no": "13(1)",
     "title": "Appointment of officers, experts, professionals and other employees of Central Authority",
     "text": "(1) The Central Government shall provide the Central Authority such number of officers and other employees as it considers necessary for the efficient performance of its functions under this Act. (2) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the Central Authority appointed under this Act shall be such as may be prescribed. (3) The Central Authority may engage, in accordance with the procedure specified by regulations, such number of experts and professionals of integrity and ability, who have special knowledge and experience in the areas of consumer rights and welfare, consumer policy, law, medicine, food safety, health, engineering, product safety, commerce, economics, public affairs or administration, as it deems necessary to assist it in the discharge of its functions under this Act.",
     "category_tags": [
@@ -523,7 +1396,7 @@
     ]
   },
   {
-    "section_no": "14",
+    "section_no": "14(1)",
     "title": "Procedure of Central Authority and powers of Chief Commissioner",
     "text": "(1) The Central Authority shall regulate the procedure for transaction of its business and allocation of its business amongst the Chief Commissioner and Commissioners as maybe specified by regulations. (2) The Chief Commissioner shall have the powers of general superintendence, direction and control in respect of all administrative matters of the Central Authority: Provided that the Chief Commissioner may delegate such of his powers relating to administrative matters of the Central Authority, as he may think fit, to any Commissioner (including Commissioner of a regional office) or any other officer of the Central Authority.",
     "category_tags": [
@@ -533,7 +1406,7 @@
     ]
   },
   {
-    "section_no": "15",
+    "section_no": "15(1)",
     "title": "Investigation Wing",
     "text": "(1) The Central Authority shall have an Investigation Wing headed by a Director-General for the purpose of conducting inquiry or investigation under this Act as may be directed by the Central Authority. (2) The Central Government may appoint a Director-General and such number of Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director, from amongst persons who have experience in investigation and possess such qualifications, in such manner, as may be prescribed. (3) Every Additional Director-General, Director, Joint Director, Deputy Director and Assistant Director shall exercise his powers, and discharge his functions, subject to the general control, supervision and direction of the Director-General. (4) The Director-General may delegate all or any of his powers to the Additional Director-General or Director, Joint Director or Deputy Director or Assistant Director, as the case may be, while conducting inquiries or investigations under this Act. (5) The inquiries or the investigations made by the Director- General shall be submitted to the Central Authority in such form, in such manner and within such time, as may be specified by regulations.",
     "category_tags": [
@@ -566,7 +1439,7 @@
     ]
   },
   {
-    "section_no": "18",
+    "section_no": "18(1)",
     "title": "Powers and functions of Central Authority",
     "text": "(1) The Central Authority shall— (a) protect, promote and enforce the rights of consumers as a class, and prevent violation of consumers rights under this Act; (b) prevent unfair trade practices and ensure that no person engages himself in unfair trade practices; (c) ensure that no false or misleading advertisement is made of any goods or services which contravenes the provisions of this Act or the rules or regulations made thereinunder; (d) ensure that no person takes part in the publication of any advertisement which is false or misleading. (2) Without prejudice to the generality of the provisions contained in sub-section (1), the Central Authority may, for any of the purposes aforesaid,— (a) inquire or cause an inquiry or investigation to be made into violations of consumer rights or unfair trade practices, either suo motu or on a complaint received or on the directions from the Central Government; (b) file complaints before the District Commission, the State Commission or the National Commission, as the case may be, under this Act; (c) intervene in any proceedings before the District Commission or the State Commission or the National Commission, as the case may be, in respect of any allegation of violation of consumer rights or unfair trade practices; (d) review the matters relating to, and the factors inhibiting enjoyment of, consumer rights, including safeguards provided for the protection of consumers under any other law for the time being in force and recommend appropriate remedial measures for their effective implementation; (e) recommend adoption of international covenants and best international practices on consumer rights to ensure effective enforcement of consumer rights; (f) undertake and promote research in the field of consumer rights; (g) spread and promote awareness on consumer rights; (h) encourage non-Governmental organisations and other institutions working in the field of consumer rights to co-operate and work with consumer protection agencies; (i) mandate the use of unique and universal goods identifiers in such goods, as may be necessary, to prevent unfair trade practices and to protect consumers' interest; (j) issue safety notices to alert consumers against dangerous or hazardous or unsafe goods or services; (k) advise the Ministries and Departments of the Central and State Governments on consumer welfare measures; (l) issue necessary guidelines to prevent unfair trade practices and protect consumers' interest.",
     "category_tags": [
@@ -578,7 +1451,7 @@
     ]
   },
   {
-    "section_no": "19",
+    "section_no": "19(1)",
     "title": "Preliminary inquiry by Central Authority",
     "text": "(1) The Central Authority may, after receiving any information or complaint or directions from the Central Government or of its own motion, conduct or cause to be conducted a preliminary inquiry as to whether there exists a prima facie case of violation of consumer rights or any unfair trade practice or any false or misleading advertisement, by any person, which is prejudicial to the public interest or to the interests of consumers and if it is satisfied that there exists a prima facie case, it shall cause investigation to be made by the Director-General or by the District Collector. (2) Where, after preliminary inquiry, the Central Authority is of the opinion that the matter is to be dealt with by a Regulator established under any other law for the time being in force, it may refer such matter to the concerned Regulator along with its report. (3) For the purposes of investigation under sub-section (1), the Central Authority, the Director General or the District Collector may call upon a person referred to in sub-section (1) and also direct him to produce any document or record in his possession.",
     "category_tags": [
@@ -600,7 +1473,7 @@
     ]
   },
   {
-    "section_no": "21",
+    "section_no": "21(1)",
     "title": "Orders regarding false or misleading advertisements",
     "text": "(1) Where the Central Authority is satisfied after investigation that any advertisement is false or misleading and is prejudicial to the interest of any consumer or is incont",
     "category_tags": [
@@ -610,9 +1483,9 @@
     ]
   },
   {
-    "section_no": "21",
+    "section_no": "21(1)",
     "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
-    "text": "(1) In case of violation of consumer rights through false or misleading advertisement, the Central Authority may, by order, issue directions to the concerned trader or manufacturer or endorser or advertiser or publisher, as the case may be, to discontinue such advertisement or to modify the same in such manner and within such time as may be specified in that order.\n(2) Notwithstanding the order passed under sub-section (1), if the Central Authority is of the opinion that it is necessary to impose a penalty in respect of such false or misleading advertisement, by a manufacturer or an endorser, it may, by order, impose on manufacturer or endorser a penalty which may extend to ten lakh rupees: Provided that the Central Authority may, for every subsequent contravention by a manufacturer or endorser, impose a penalty, which may extend to fifty lakh rupees.\n(3) Notwithstanding any order under sub-sections (1) and (2), where the Central Authority deems it necessary, it may, by order, prohibit the endorser of a false or misleading advertisement from making endorsement of any product or service for a period which may extend to one year. Provided that the Central Authority may, for every subsequent contravention, prohibit such endorser from making endorsement in respect of any product or service for a period which may extend to three years.\n(4) Where the Central Authority is satisfied after investigation that any person is found to publish, or is a party to the publication of, a misleading advertisement, it may impose on such person a penalty which may extend to ten lakh rupees.\n(5) No endorser shall be liable to a penalty under sub-sections (2) and (3) if he has exercised due diligence to verify the veracity of the claims made in the advertisement regarding the product or service being endorsed by him.\n(6) No person shall be liable to such penalty if he proves that he had published or arranged for the publication of such advertisement in the ordinary course of his business: Provided that no such defence shall be available to such person if he had previous knowledge of the order passed by the Central Authority for withdrawal or modification of such advertisement.\n(7) While determining the penalty under this section, regard shall be had to the following, namely:—\n   (a) the population and the area impacted or affected by such offence;\n   (b) the frequency and duration of such offence;\n   (c) the vulnerability of the class of persons likely to be adversely affected by such offence; and\n   (d) the gross revenue from the sales effected by virtue of such offence.\n(8) The Central Authority shall give the person an opportunity of being heard before an order under this section is passed.",
+    "text": "(1) In case of violation of consumer rights through false or misleading advertisement, the Central Authority may, by order, issue directions to the concerned trader or manufacturer or endorser or advertiser or publisher, as the case may be, to discontinue such advertisement or to modify the same in such manner and within such time as may be specified in that order.",
     "category_tags": [
       "False/misleading advertisement",
       "Penalty",
@@ -621,9 +1494,126 @@
     ]
   },
   {
-    "section_no": "22",
+    "section_no": "21(2)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(2) Notwithstanding the order passed under sub-section (1), if the Central Authority is of the opinion that it is necessary to impose a penalty in respect of such false or misleading advertisement, by a manufacturer or an endorser, it may, by order, impose on manufacturer or endorser a penalty which may extend to ten lakh rupees: Provided that the Central Authority may, for every subsequent contravention by a manufacturer or endorser, impose a penalty, which may extend to fifty lakh rupees.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(3)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(3) Notwithstanding any order under sub-sections (1) and (2), where the Central Authority deems it necessary, it may, by order, prohibit the endorser of a false or misleading advertisement from making endorsement of any product or service for a period which may extend to one year. Provided that the Central Authority may, for every subsequent contravention, prohibit such endorser from making endorsement in respect of any product or service for a period which may extend to three years.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(4)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(4) Where the Central Authority is satisfied after investigation that any person is found to publish, or is a party to the publication of, a misleading advertisement, it may impose on such person a penalty which may extend to ten lakh rupees.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(5)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(5) No endorser shall be liable to a penalty under sub-sections (2) and (3) if he has exercised due diligence to verify the veracity of the claims made in the advertisement regarding the product or service being endorsed by him.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(6)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(6) No person shall be liable to such penalty if he proves that he had published or arranged for the publication of such advertisement in the ordinary course of his business: Provided that no such defence shall be available to such person if he had previous knowledge of the order passed by the Central Authority for withdrawal or modification of such advertisement.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(7)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(7) While determining the penalty under this section, regard shall be had to the following, namely:—\n   (a) the population and the area impacted or affected by such offence;\n   (b) the frequency and duration of such offence;\n   (c) the vulnerability of the class of persons likely to be adversely affected by such offence; and\n   (d) the gross revenue from the sales effected by virtue of such offence.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "21(8)",
+    "title": "Power of Central Authority to issue directions and penalties against false or misleading advertisements",
+    "text": "(8) The Central Authority shall give the person an opportunity of being heard before an order under this section is passed.",
+    "category_tags": [
+      "False/misleading advertisement",
+      "Penalty",
+      "Endorser liability",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "22(1)",
     "title": "Search and seizure",
-    "text": "(1) For the purpose of conducting an investigation after preliminary inquiry under sub-section (1) of section 19, the Director-General or any other officer authorised by him in this behalf, or the District Collector, as the case may be, may, if he has any reason to believe that any person has violated any consumer rights or committed unfair trade practice or causes any false or misleading advertisement to be made, shall,—\n   (a) enter at any reasonable time into any such premises and search for any document or record or article or any other form of evidence and seize such document, record, article or such evidence;\n   (b) make a note or an inventory of such record or article; or\n   (c) require any person to produce any record, register or other document or article.\n(2) The provisions of the Code of Criminal Procedure, 1973, relating to search and seizure shall apply, as far as may be, for search and seizure under this Act.\n(3) Every document, record or article seized under clause (a) of sub-section (1) or produced under clause (c) of that sub-section shall be returned to the person, from whom they were seized or who produced the same, within a period of twenty days of the date of such seizure or production, as the case may be, after copies thereof or extracts therefrom certified by that person, in such manner as may be prescribed, have been taken.\n(4) Where any article seized under sub-section (1) are subject to speedy or natural decay, the Director-General or such other officer may dispose of the article in such manner as may be prescribed.\n(5) In the case of articles other than the articles referred to in sub-section (4), provisions contained in clause (c) of sub-section (2) of section 38 shall mutatis mutandis apply in relation to analysis or tests.",
+    "text": "(1) For the purpose of conducting an investigation after preliminary inquiry under sub-section (1) of section 19, the Director-General or any other officer authorised by him in this behalf, or the District Collector, as the case may be, may, if he has any reason to believe that any person has violated any consumer rights or committed unfair trade practice or causes any false or misleading advertisement to be made, shall,—\n   (a) enter at any reasonable time into any such premises and search for any document or record or article or any other form of evidence and seize such document, record, article or such evidence;\n   (b) make a note or an inventory of such record or article; or\n   (c) require any person to produce any record, register or other document or article.",
+    "category_tags": [
+      "Search and seizure",
+      "Investigation",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "22(2)",
+    "title": "Search and seizure",
+    "text": "(2) The provisions of the Code of Criminal Procedure, 1973, relating to search and seizure shall apply, as far as may be, for search and seizure under this Act.",
+    "category_tags": [
+      "Search and seizure",
+      "Investigation",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "22(3)",
+    "title": "Search and seizure",
+    "text": "(3) Every document, record or article seized under clause (a) of sub-section (1) or produced under clause (c) of that sub-section shall be returned to the person, from whom they were seized or who produced the same, within a period of twenty days of the date of such seizure or production, as the case may be, after copies thereof or extracts therefrom certified by that person, in such manner as may be prescribed, have been taken.",
+    "category_tags": [
+      "Search and seizure",
+      "Investigation",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "22(4)",
+    "title": "Search and seizure",
+    "text": "(4) Where any article seized under sub-section (1) are subject to speedy or natural decay, the Director-General or such other officer may dispose of the article in such manner as may be prescribed.",
+    "category_tags": [
+      "Search and seizure",
+      "Investigation",
+      "Consumer rights enforcement"
+    ]
+  },
+  {
+    "section_no": "22(5)",
+    "title": "Search and seizure",
+    "text": "(5) In the case of articles other than the articles referred to in sub-section (4), provisions contained in clause (c) of sub-section (2) of section 38 shall mutatis mutandis apply in relation to analysis or tests.",
     "category_tags": [
       "Search and seizure",
       "Investigation",
@@ -649,18 +1639,45 @@
     ]
   },
   {
-    "section_no": "26",
+    "section_no": "26(1)",
     "title": "Accounts and audit",
-    "text": "(1) The Central Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India.\n(2) The accounts of the Central Authority shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Central Authority to the Comptroller and Auditor-General of India.\n(3) The Comptroller and Auditor-General of India or any other person appointed by him in connection with the audit of the accounts of the Central Authority shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India generally has, in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Central Authority.\n(4) The accounts of the Central Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government which shall cause the same to be laid before each House of Parliament.",
+    "text": "(1) The Central Authority shall maintain proper accounts and other relevant records and prepare an annual statement of accounts in such form and manner as may be prescribed in consultation with the Comptroller and Auditor-General of India.",
     "category_tags": [
       "Accounts and audit",
       "Financial accountability"
     ]
   },
   {
-    "section_no": "27",
+    "section_no": "26(2)",
+    "title": "Accounts and audit",
+    "text": "(2) The accounts of the Central Authority shall be audited by the Comptroller and Auditor-General of India at such intervals as may be specified by him and any expenditure incurred in connection with such audit shall be payable by the Central Authority to the Comptroller and Auditor-General of India.",
+    "category_tags": [
+      "Accounts and audit",
+      "Financial accountability"
+    ]
+  },
+  {
+    "section_no": "26(3)",
+    "title": "Accounts and audit",
+    "text": "(3) The Comptroller and Auditor-General of India or any other person appointed by him in connection with the audit of the accounts of the Central Authority shall have the same rights, privileges and authority in connection with such audit as the Comptroller and Auditor-General of India generally has, in connection with the audit of the Government accounts and, in particular, shall have the right to demand the production of books, accounts, connected vouchers and other documents and papers and to inspect any of the offices of the Central Authority.",
+    "category_tags": [
+      "Accounts and audit",
+      "Financial accountability"
+    ]
+  },
+  {
+    "section_no": "26(4)",
+    "title": "Accounts and audit",
+    "text": "(4) The accounts of the Central Authority as certified by the Comptroller and Auditor-General of India or any other person appointed by him in this behalf together with the audit report thereon shall be forwarded annually to the Central Government which shall cause the same to be laid before each House of Parliament.",
+    "category_tags": [
+      "Accounts and audit",
+      "Financial accountability"
+    ]
+  },
+  {
+    "section_no": "27(1)",
     "title": "Furnishing of annual reports, etc.",
-    "text": "(1) The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.\n(2) A copy of the annual report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.",
+    "text": "(1) The Central Authority shall prepare once in every year, in such form, manner and at such time as may be prescribed, an annual report giving full account of its activities during the previous year and such other reports and returns, as may be directed, and copies of such report and returns shall be forwarded to the Central Government.",
     "category_tags": [
       "Annual report",
       "Reporting",
@@ -668,9 +1685,49 @@
     ]
   },
   {
-    "section_no": "28",
+    "section_no": "27(2)",
+    "title": "Furnishing of annual reports, etc.",
+    "text": "(2) A copy of the annual report received under sub-section (1) shall be laid, as soon as may be after it is received, before each House of Parliament.",
+    "category_tags": [
+      "Annual report",
+      "Reporting",
+      "Transparency"
+    ]
+  },
+  {
+    "section_no": "28(1)",
     "title": "Establishment of District Consumer Disputes Redressal Commission",
-    "text": "(1) The State Government shall, by notification, establish a District Consumer Disputes Redressal Commission, to be known as the District Commission, in each district of the State: Provided that the State Government may, if it deems fit, establish more than one District Commission in a district.\n(2) Each District Commission shall consist of—\n(a) a President; and\n(b) not less than two and not more than such number of members as may be prescribed, in consultation with the Central Government.",
+    "text": "(1) The State Government shall, by notification, establish a District Consumer Disputes Redressal Commission, to be known as the District Commission, in each district of the State: Provided that the State Government may, if it deems fit, establish more than one District Commission in a district.",
+    "category_tags": [
+      "Establishment",
+      "District Consumer Disputes Redressal Commission",
+      "Consumer protection"
+    ]
+  },
+  {
+    "section_no": "28(2)",
+    "title": "Establishment of District Consumer Disputes Redressal Commission",
+    "text": "(2) Each District Commission shall consist of—",
+    "category_tags": [
+      "Establishment",
+      "District Consumer Disputes Redressal Commission",
+      "Consumer protection"
+    ]
+  },
+  {
+    "section_no": "28(2)(a)",
+    "title": "Establishment of District Consumer Disputes Redressal Commission",
+    "text": "(a) a President; and",
+    "category_tags": [
+      "Establishment",
+      "District Consumer Disputes Redressal Commission",
+      "Consumer protection"
+    ]
+  },
+  {
+    "section_no": "28(2)(b)",
+    "title": "Establishment of District Consumer Disputes Redressal Commission",
+    "text": "(b) not less than two and not more than such number of members as may be prescribed, in consultation with the Central Government.",
     "category_tags": [
       "Establishment",
       "District Consumer Disputes Redressal Commission",
@@ -713,7 +1770,7 @@
   {
     "section_no": "32",
     "title": "Vacancy and jurisdiction in District Commission",
-    "text": "If, at any time, there is a vacancy in the office of the President or member of a District Commission, the State Government may, by notification, direct—\n(a) any other District Commission specified in that notification to exercise the jurisdiction in respect of that district also; or\n(b) the President or a member of any other District Commission specified in that notification to exercise the powers and discharge the functions of the President or member of that District Commission also.",
+    "text": "If, at any time, there is a vacancy in the office of the President or member of a District Commission, the State Government may, by notification, direct—",
     "category_tags": [
       "Vacancy",
       "Jurisdiction",
@@ -721,9 +1778,29 @@
     ]
   },
   {
-    "section_no": "33",
+    "section_no": "32(a)",
+    "title": "Vacancy and jurisdiction in District Commission",
+    "text": "(a) any other District Commission specified in that notification to exercise the jurisdiction in respect of that district also; or",
+    "category_tags": [
+      "Vacancy",
+      "Jurisdiction",
+      "District Commission"
+    ]
+  },
+  {
+    "section_no": "32(b)",
+    "title": "Vacancy and jurisdiction in District Commission",
+    "text": "(b) the President or a member of any other District Commission specified in that notification to exercise the powers and discharge the functions of the President or member of that District Commission also.",
+    "category_tags": [
+      "Vacancy",
+      "Jurisdiction",
+      "District Commission"
+    ]
+  },
+  {
+    "section_no": "33(1)",
     "title": "Officers and employees of District Commission",
-    "text": "(1) The State Government shall provide the District Commission with such officers and other employees as may be required to assist the District Commission in the discharge of its functions.\n(2) The officers and other employees of the District Commission shall discharge their functions under the general superintendence of the President of the District Commission.\n(3) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the District Commission shall be such as may be prescribed.",
+    "text": "(1) The State Government shall provide the District Commission with such officers and other employees as may be required to assist the District Commission in the discharge of its functions.",
     "category_tags": [
       "Officers",
       "Employees",
@@ -732,7 +1809,29 @@
     ]
   },
   {
-    "section_no": "34",
+    "section_no": "33(2)",
+    "title": "Officers and employees of District Commission",
+    "text": "(2) The officers and other employees of the District Commission shall discharge their functions under the general superintendence of the President of the District Commission.",
+    "category_tags": [
+      "Officers",
+      "Employees",
+      "District Commission",
+      "Administration"
+    ]
+  },
+  {
+    "section_no": "33(3)",
+    "title": "Officers and employees of District Commission",
+    "text": "(3) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the District Commission shall be such as may be prescribed.",
+    "category_tags": [
+      "Officers",
+      "Employees",
+      "District Commission",
+      "Administration"
+    ]
+  },
+  {
+    "section_no": "34(1)",
     "title": "Powers of District Commission",
     "text": "(1) Subject to the other provisions of this Act, the District Commission sha",
     "category_tags": [
@@ -742,9 +1841,9 @@
     ]
   },
   {
-    "section_no": "35",
+    "section_no": "35(1)",
     "title": "Filing of complaint with District Commission",
-    "text": "(1) A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by—\n(a) the consumer,—\n(i) to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided; or\n(ii) who alleges unfair trade practice in respect of such goods or service;\n(b) any recognised consumer association, whether the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided, or who alleges unfair trade practice in respect of such goods or service, is a member of such association or not;\n(c) one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission, on behalf of, or for the benefit of, all consumers so interested; or\n(d) the Central Government, the Central Authority or the State Government, as the case may be:\nProvided that the complaint under this sub-section may be filed electronically in such manner as may be prescribed.\nExplanation. —For the purposes of this sub-section, \"recognised consumer association\" means any voluntary consumer association registered under any law for the time being in force.\n(2) Every complaint filed under sub-section (1) shall be accompanied with such fee and payable in such manner, including electronic form, as may be prescribed.",
+    "text": "(1) A complaint, in relation to any goods sold or delivered or agreed to be sold or delivered or any service provided or agreed to be provided, may be filed with a District Commission by—",
     "category_tags": [
       "Filing complaint",
       "Consumer rights",
@@ -752,9 +1851,79 @@
     ]
   },
   {
-    "section_no": "36",
+    "section_no": "35(1)(a)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(a) the consumer,—",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(1)(a)(i)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(i) to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided; or",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(1)(a)(ii)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(ii) who alleges unfair trade practice in respect of such goods or service;",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(1)(b)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(b) any recognised consumer association, whether the consumer to whom such goods are sold or delivered or agreed to be sold or delivered or such service is provided or agreed to be provided, or who alleges unfair trade practice in respect of such goods or service, is a member of such association or not;",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(1)(c)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(c) one or more consumers, where there are numerous consumers having the same interest, with the permission of the District Commission, on behalf of, or for the benefit of, all consumers so interested; or",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(1)(d)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(d) the Central Government, the Central Authority or the State Government, as the case may be:\nProvided that the complaint under this sub-section may be filed electronically in such manner as may be prescribed.\nExplanation. —For the purposes of this sub-section, \"recognised consumer association\" means any voluntary consumer association registered under any law for the time being in force.",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "35(2)",
+    "title": "Filing of complaint with District Commission",
+    "text": "(2) Every complaint filed under sub-section (1) shall be accompanied with such fee and payable in such manner, including electronic form, as may be prescribed.",
+    "category_tags": [
+      "Filing complaint",
+      "Consumer rights",
+      "Unfair trade practice"
+    ]
+  },
+  {
+    "section_no": "36(1)",
     "title": "Proceedings before District Commission",
-    "text": "(1) Every proceeding before the District Commission shall be conducted by the President of that Commission and at least one member thereof, sitting together:\nProvided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.\n(2) On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same:\nProvided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant:\nProvided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.\n(3) Where the District Commission does not decide the issue of admissibility of the complaint within the period so specified, it shall be deemed to have been admitted.",
+    "text": "(1) Every proceeding before the District Commission shall be conducted by the President of that Commission and at least one member thereof, sitting together:\nProvided that where a member, for any reason, is unable to conduct a proceeding till it is completed, the President and the other member shall continue the proceeding from the stage at which it was last heard by the previous member.",
     "category_tags": [
       "Proceedings",
       "Admission of complaint",
@@ -762,9 +1931,29 @@
     ]
   },
   {
-    "section_no": "37",
+    "section_no": "36(2)",
+    "title": "Proceedings before District Commission",
+    "text": "(2) On receipt of a complaint made under section 35, the District Commission may, by order, admit the complaint for being proceeded with or reject the same:\nProvided that a complaint shall not be rejected under this section unless an opportunity of being heard has been given to the complainant:\nProvided further that the admissibility of the complaint shall ordinarily be decided within twenty-one days from the date on which the complaint was filed.",
+    "category_tags": [
+      "Proceedings",
+      "Admission of complaint",
+      "District Commission"
+    ]
+  },
+  {
+    "section_no": "36(3)",
+    "title": "Proceedings before District Commission",
+    "text": "(3) Where the District Commission does not decide the issue of admissibility of the complaint within the period so specified, it shall be deemed to have been admitted.",
+    "category_tags": [
+      "Proceedings",
+      "Admission of complaint",
+      "District Commission"
+    ]
+  },
+  {
+    "section_no": "37(1)",
     "title": "Mediation",
-    "text": "(1) At the first hearing of the complaint after its admission, or at any later stage, if it appears to the District Commission that there exists elements of a settlement which may be acceptable to the parties, except in such cases as may be prescribed, it may direct the parties to give in writing, within five days, consent to have their dispute settled by mediation in accordance with the provisions of Chapter V.\n(2) Where the parties agree for settlement by mediation and give their consent in writing, the District Commission shall, within five days of receipt of such consent, refer the matter for mediation, and in such case, the provisions of Chapter V, relating to mediation, shall apply.",
+    "text": "(1) At the first hearing of the complaint after its admission, or at any later stage, if it appears to the District Commission that there exists elements of a settlement which may be acceptable to the parties, except in such cases as may be prescribed, it may direct the parties to give in writing, within five days, consent to have their dispute settled by mediation in accordance with the provisions of Chapter V.",
     "category_tags": [
       "Mediation",
       "Settlement",
@@ -772,9 +1961,162 @@
     ]
   },
   {
-    "section_no": "38",
+    "section_no": "37(2)",
+    "title": "Mediation",
+    "text": "(2) Where the parties agree for settlement by mediation and give their consent in writing, the District Commission shall, within five days of receipt of such consent, refer the matter for mediation, and in such case, the provisions of Chapter V, relating to mediation, shall apply.",
+    "category_tags": [
+      "Mediation",
+      "Settlement",
+      "Consumer dispute resolution"
+    ]
+  },
+  {
+    "section_no": "38(7)",
     "title": "Powers of the District Commission",
-    "text": "(7) Every complaint shall be disposed of as expeditiously as possible and endeavour shall be made to decide the complaint within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months if it requires analysis or testing of commodities:\nProvided that no adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by the Commission:\nProvided further that the District Commission shall make such orders as to the costs occasioned by the adjournment as may be specified by regulations:\nProvided also that in the event of a complaint being disposed of after the period so specified, the District Commission shall record in writing, the reasons for the same at the time of disposing of the said complaint.\n(8) Where during the pendency of any proceeding before the District Commission, if it appears necessary, it may pass such interim order as is just and proper in the facts and circumstances of the case.\n(9) For the purposes of this section, the District Commission shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 while trying a suit in respect of the following matters, namely:—\n(a) the summoning and enforcing the attendance of any defendant or witness and examining the witness on oath;\n(b) requiring the discovery and production of any document or other material object as evidence;\n(c) receiving of evidence on affidavits;\n(d) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source;\n(e) issuing of commissions for the examination of any witness, or document; and\n(f) any other matter which may be prescribed by the Central Government.\n(10) Every proceeding before the District Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code, and the District Commission shall be deemed to be a criminal court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973.\n(11) Where the complainant is a consumer referred to in sub-clause (v) of clause (5) of section 2, the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Commission thereon.\n(12) In the event of death of a complainant who is a consumer or of the opposite party against whom the complaint has been filed, the provisions of Order XXII of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to the plaintiff and the defendant shall be construed as reference to a complainant or the opposite party, as the case may be.",
+    "text": "(7) Every complaint shall be disposed of as expeditiously as possible and endeavour shall be made to decide the complaint within a period of three months from the date of receipt of notice by opposite party where the complaint does not require analysis or testing of commodities and within five months if it requires analysis or testing of commodities:\nProvided that no adjournment shall ordinarily be granted by the District Commission unless sufficient cause is shown and the reasons for grant of adjournment have been recorded in writing by the Commission:\nProvided further that the District Commission shall make such orders as to the costs occasioned by the adjournment as may be specified by regulations:\nProvided also that in the event of a complaint being disposed of after the period so specified, the District Commission shall record in writing, the reasons for the same at the time of disposing of the said complaint.",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(8)",
+    "title": "Powers of the District Commission",
+    "text": "(8) Where during the pendency of any proceeding before the District Commission, if it appears necessary, it may pass such interim order as is just and proper in the facts and circumstances of the case.",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)",
+    "title": "Powers of the District Commission",
+    "text": "(9) For the purposes of this section, the District Commission shall have the same powers as are vested in a civil court under the Code of Civil Procedure, 1908 while trying a suit in respect of the following matters, namely:—",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(a)",
+    "title": "Powers of the District Commission",
+    "text": "(a) the summoning and enforcing the attendance of any defendant or witness and examining the witness on oath;",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(b)",
+    "title": "Powers of the District Commission",
+    "text": "(b) requiring the discovery and production of any document or other material object as evidence;",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(c)",
+    "title": "Powers of the District Commission",
+    "text": "(c) receiving of evidence on affidavits;",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(d)",
+    "title": "Powers of the District Commission",
+    "text": "(d) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source;",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(e)",
+    "title": "Powers of the District Commission",
+    "text": "(e) issuing of commissions for the examination of any witness, or document; and",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(9)(f)",
+    "title": "Powers of the District Commission",
+    "text": "(f) any other matter which may be prescribed by the Central Government.",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(10)",
+    "title": "Powers of the District Commission",
+    "text": "(10) Every proceeding before the District Commission shall be deemed to be a judicial proceeding within the meaning of sections 193 and 228 of the Indian Penal Code, and the District Commission shall be deemed to be a criminal court for the purposes of section 195 and Chapter XXVI of the Code of Criminal Procedure, 1973.",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(11)",
+    "title": "Powers of the District Commission",
+    "text": "(11) Where the complainant is a consumer referred to in sub-clause (v) of clause (5) of section 2, the provisions of Order I Rule 8 of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Commission thereon.",
+    "category_tags": [
+      "Procedural",
+      "Adjournment",
+      "Interim orders",
+      "Civil court powers",
+      "Criminal court provisions",
+      "Death of parties"
+    ]
+  },
+  {
+    "section_no": "38(12)",
+    "title": "Powers of the District Commission",
+    "text": "(12) In the event of death of a complainant who is a consumer or of the opposite party against whom the complaint has been filed, the provisions of Order XXII of the First Schedule to the Code of Civil Procedure, 1908 shall apply subject to the modification that every reference therein to the plaintiff and the defendant shall be construed as reference to a complainant or the opposite party, as the case may be.",
     "category_tags": [
       "Procedural",
       "Adjournment",
@@ -787,7 +2129,161 @@
   {
     "section_no": "39",
     "title": "Orders of the District Commission",
-    "text": "39. (1) Where the District Commission is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services or any unfair trade practices, or claims for compensation under product liability are proved, it shall issue an order to the opposite party directing him to do one or more of the following, namely:—\n(a) to remove the defect pointed out by the appropriate laboratory from the goods in question;\n(b) to replace the goods with new goods of similar description which shall be free from any defect;\n(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant along with such interest on such price or charges as may be decided;\n(d) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party: Provided that the District Commission shall have the power to grant punitive damages in such circumstances as it deems fit;\n(e) to pay such amount as may be awarded by it as compensation in a product liability action under Chapter VI;\n(f) to remove the defects in goods or deficiencies in the services in question;\n(g) to discontinue the unfair trade practice or restrictive trade practice and not to repeat them;\n(h) not to offer the hazardous or unsafe goods for sale;\n(i) to withdraw the hazardous goods from being offered for sale;\n(j) to cease manufacture of hazardous goods and to desist from offering services which are hazardous in nature;\n(k) to pay such sum as may be determined by it, if it is of the opinion that loss or injury has been suffered by a large number of consumers who are not identifiable conveniently: Provided that the minimum amount of sum so payable shall not be less than twenty-five p",
+    "text": "39. (1) Where the District Commission is satisfied that the goods complained against suffer from any of the defects specified in the complaint or that any of the allegations contained in the complaint about the services or any unfair trade practices, or claims for compensation under product liability are proved, it shall issue an order to the opposite party directing him to do one or more of the following, namely:—",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(a)",
+    "title": "Orders of the District Commission",
+    "text": "(a) to remove the defect pointed out by the appropriate laboratory from the goods in question;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(b)",
+    "title": "Orders of the District Commission",
+    "text": "(b) to replace the goods with new goods of similar description which shall be free from any defect;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(c)",
+    "title": "Orders of the District Commission",
+    "text": "(c) to return to the complainant the price, or, as the case may be, the charges paid by the complainant along with such interest on such price or charges as may be decided;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(d)",
+    "title": "Orders of the District Commission",
+    "text": "(d) to pay such amount as may be awarded by it as compensation to the consumer for any loss or injury suffered by the consumer due to the negligence of the opposite party: Provided that the District Commission shall have the power to grant punitive damages in such circumstances as it deems fit;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(e)",
+    "title": "Orders of the District Commission",
+    "text": "(e) to pay such amount as may be awarded by it as compensation in a product liability action under Chapter VI;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(f)",
+    "title": "Orders of the District Commission",
+    "text": "(f) to remove the defects in goods or deficiencies in the services in question;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(g)",
+    "title": "Orders of the District Commission",
+    "text": "(g) to discontinue the unfair trade practice or restrictive trade practice and not to repeat them;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(h)",
+    "title": "Orders of the District Commission",
+    "text": "(h) not to offer the hazardous or unsafe goods for sale;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(h)(i)",
+    "title": "Orders of the District Commission",
+    "text": "(i) to withdraw the hazardous goods from being offered for sale;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(j)",
+    "title": "Orders of the District Commission",
+    "text": "(j) to cease manufacture of hazardous goods and to desist from offering services which are hazardous in nature;",
+    "category_tags": [
+      "Defective goods",
+      "Unfair trade practice",
+      "Product liability",
+      "Compensation",
+      "Punitive damages",
+      "Hazardous goods",
+      "Consumer remedies"
+    ]
+  },
+  {
+    "section_no": "39(k)",
+    "title": "Orders of the District Commission",
+    "text": "(k) to pay such sum as may be determined by it, if it is of the opinion that loss or injury has been suffered by a large number of consumers who are not identifiable conveniently: Provided that the minimum amount of sum so payable shall not be less than twenty-five p",
     "category_tags": [
       "Defective goods",
       "Unfair trade practice",
@@ -818,9 +2314,45 @@
     ]
   },
   {
-    "section_no": "42",
+    "section_no": "42(1)",
     "title": "Establishment of State Consumer Disputes Redressal Commission",
-    "text": "(1) The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.\n(2) The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette: Provided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.\n(3) Each State Commission shall consist of—\n(a) a President; and\n(b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.",
+    "text": "(1) The State Government shall, by notification, establish a State Consumer Disputes Redressal Commission, to be known as the State Commission, in the State.",
+    "category_tags": [
+      "Establishment",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "42(2)",
+    "title": "Establishment of State Consumer Disputes Redressal Commission",
+    "text": "(2) The State Commission shall ordinarily function at the State capital and perform its functions at such other places as the State Government may in consultation with the State Commission notify in the Official Gazette: Provided that the State Government may, by notification, establish regional benches of the State Commission, at such places, as it deems fit.",
+    "category_tags": [
+      "Establishment",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "42(3)",
+    "title": "Establishment of State Consumer Disputes Redressal Commission",
+    "text": "(3) Each State Commission shall consist of—",
+    "category_tags": [
+      "Establishment",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "42(3)(a)",
+    "title": "Establishment of State Consumer Disputes Redressal Commission",
+    "text": "(a) a President; and",
+    "category_tags": [
+      "Establishment",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "42(3)(b)",
+    "title": "Establishment of State Consumer Disputes Redressal Commission",
+    "text": "(b) not less than four or not more than such number of members as may be prescribed in consultation with the Central Government.",
     "category_tags": [
       "Establishment",
       "State Commission"
@@ -856,9 +2388,27 @@
     ]
   },
   {
-    "section_no": "46",
+    "section_no": "46(1)",
     "title": "Officers and employees of State Commission",
-    "text": "(1) The State Government shall determine the nature and categories of the officers and other employees required to assist the State Commission in the discharge of its functions and provide the Commission with such officers and other employees as it may think fit.\n(2) The officers and other employees of the State Commission shall discharge their functions under the general superintendence of the President.\n(3) The salaries and allowances payable to and the other terms and conditions of service of, the officers and other employees of the State Commission shall be such as may be prescribed.",
+    "text": "(1) The State Government shall determine the nature and categories of the officers and other employees required to assist the State Commission in the discharge of its functions and provide the Commission with such officers and other employees as it may think fit.",
+    "category_tags": [
+      "Administration",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "46(2)",
+    "title": "Officers and employees of State Commission",
+    "text": "(2) The officers and other employees of the State Commission shall discharge their functions under the general superintendence of the President.",
+    "category_tags": [
+      "Administration",
+      "State Commission"
+    ]
+  },
+  {
+    "section_no": "46(3)",
+    "title": "Officers and employees of State Commission",
+    "text": "(3) The salaries and allowances payable to and the other terms and conditions of service of, the officers and other employees of the State Commission shall be such as may be prescribed.",
     "category_tags": [
       "Administration",
       "State Commission"
@@ -867,7 +2417,27 @@
   {
     "section_no": "47",
     "title": "Jurisdiction of State Commission",
-    "text": "Subject to the other provisions of this Act, the State Commission shall have jurisdiction—\n(a) to entertain—\n(i) complaints where the value of the goods or services paid as consideration, exceeds rupees ...",
+    "text": "Subject to the other provisions of this Act, the State Commission shall have jurisdiction—",
+    "category_tags": [
+      "Jurisdiction",
+      "State Commission",
+      "Consumer complaints"
+    ]
+  },
+  {
+    "section_no": "47(a)",
+    "title": "Jurisdiction of State Commission",
+    "text": "(a) to entertain—",
+    "category_tags": [
+      "Jurisdiction",
+      "State Commission",
+      "Consumer complaints"
+    ]
+  },
+  {
+    "section_no": "47(a)(i)",
+    "title": "Jurisdiction of State Commission",
+    "text": "(i) complaints where the value of the goods or services paid as consideration, exceeds rupees ...",
     "category_tags": [
       "Jurisdiction",
       "State Commission",
@@ -886,9 +2456,20 @@
     ]
   },
   {
-    "section_no": "49",
+    "section_no": "49(1)",
     "title": "Application of provisions relating to complaints and power to declare unfair contract terms void",
-    "text": "(1) The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be necessary, be applicable to the disposal of complaints by the State Commission.\n(2) Without prejudice to the provisions of sub-section (1), the State Commission may also declare any terms of contract, which is unfair to any consumer, to be null and void.",
+    "text": "(1) The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be necessary, be applicable to the disposal of complaints by the State Commission.",
+    "category_tags": [
+      "Application of provisions",
+      "Unfair contract",
+      "State Commission",
+      "Complaints"
+    ]
+  },
+  {
+    "section_no": "49(2)",
+    "title": "Application of provisions relating to complaints and power to declare unfair contract terms void",
+    "text": "(2) Without prejudice to the provisions of sub-section (1), the State Commission may also declare any terms of contract, which is unfair to any consumer, to be null and void.",
     "category_tags": [
       "Application of provisions",
       "Unfair contract",
@@ -908,9 +2489,33 @@
     ]
   },
   {
-    "section_no": "51",
+    "section_no": "51(1)",
     "title": "Appeal against order of State Commission to National Commission",
-    "text": "(1) Any person aggrieved by an order made by the State Commission in exercise of its powers conferred by sub-clause (i) or (ii) of clause (a) of sub-section (1) of section 47 may prefer an appeal against such order to the National Commission within a period of thirty days from the date of the order in such form and manner as may be prescribed:\nProvided that the National Commission shall not entertain the appeal after the expiry of the said period of thirty days unless it is satisfied that there was sufficient cause for not filing it within that period:\nProvided further that no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed.\n(2) Save as otherwise expressly provided under this Act or by any other law for the time being in force, an appeal shall lie to the National Commission from any order passed in appeal by any State Commission, if the National Commission is satisfied that the case involves a substantial question of law.\n(3) In an appeal involving a question of",
+    "text": "(1) Any person aggrieved by an order made by the State Commission in exercise of its powers conferred by sub-clause (i) or (ii) of clause (a) of sub-section (1) of section 47 may prefer an appeal against such order to the National Commission within a period of thirty days from the date of the order in such form and manner as may be prescribed:\nProvided that the National Commission shall not entertain the appeal after the expiry of the said period of thirty days unless it is satisfied that there was sufficient cause for not filing it within that period:\nProvided further that no appeal by a person, who is required to pay any amount in terms of an order of the State Commission, shall be entertained by the National Commission unless the appellant has deposited fifty per cent. of that amount in the manner as may be prescribed.",
+    "category_tags": [
+      "Appeal",
+      "National Commission",
+      "State Commission",
+      "Order",
+      "Substantial question of law"
+    ]
+  },
+  {
+    "section_no": "51(2)",
+    "title": "Appeal against order of State Commission to National Commission",
+    "text": "(2) Save as otherwise expressly provided under this Act or by any other law for the time being in force, an appeal shall lie to the National Commission from any order passed in appeal by any State Commission, if the National Commission is satisfied that the case involves a substantial question of law.",
+    "category_tags": [
+      "Appeal",
+      "National Commission",
+      "State Commission",
+      "Order",
+      "Substantial question of law"
+    ]
+  },
+  {
+    "section_no": "51(3)",
+    "title": "Appeal against order of State Commission to National Commission",
+    "text": "(3) In an appeal involving a question of",
     "category_tags": [
       "Appeal",
       "National Commission",
@@ -933,7 +2538,17 @@
   {
     "section_no": "53",
     "title": "Establishment of National Consumer Disputes Redressal Commission",
-    "text": "53. (1) The Central Government shall, by notification, establish a National Consumer Disputes Redressal Commission, to be known as the National Commission.\n(2) The National Commission shall ordinarily function at the National Capital Region and perform its functions at such other places as the Central Government may in consultation with the National Commission notify in the Official Gazette:\nProvided that the Central Government may, by notification, establish regional Benches of the National Commission, at such places, as it deems fit.",
+    "text": "53. (1) The Central Government shall, by notification, establish a National Consumer Disputes Redressal Commission, to be known as the National Commission.",
+    "category_tags": [
+      "Establishment",
+      "National Commission",
+      "Regional benches"
+    ]
+  },
+  {
+    "section_no": "53(2)",
+    "title": "Establishment of National Consumer Disputes Redressal Commission",
+    "text": "(2) The National Commission shall ordinarily function at the National Capital Region and perform its functions at such other places as the Central Government may in consultation with the National Commission notify in the Official Gazette:\nProvided that the Central Government may, by notification, establish regional Benches of the National Commission, at such places, as it deems fit.",
     "category_tags": [
       "Establishment",
       "National Commission",
@@ -943,7 +2558,29 @@
   {
     "section_no": "54",
     "title": "Composition of National Commission",
-    "text": "54. The National Commission shall consist of—\n(a) a President; and\n(b) not less than four and not more than such number of members as may be prescribed.",
+    "text": "54. The National Commission shall consist of—",
+    "category_tags": [
+      "Composition",
+      "National Commission",
+      "President",
+      "Members"
+    ]
+  },
+  {
+    "section_no": "54(a)",
+    "title": "Composition of National Commission",
+    "text": "(a) a President; and",
+    "category_tags": [
+      "Composition",
+      "National Commission",
+      "President",
+      "Members"
+    ]
+  },
+  {
+    "section_no": "54(b)",
+    "title": "Composition of National Commission",
+    "text": "(b) not less than four and not more than such number of members as may be prescribed.",
     "category_tags": [
       "Composition",
       "National Commission",
@@ -954,7 +2591,46 @@
   {
     "section_no": "55",
     "title": "Qualifications, terms of office and conditions of service of President and members",
-    "text": "55. (1) The Central Government may, by notification, make rules to provide for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission:\nProvided that the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment:\nProvided further that no President or members shall hold office as such after he has attained such age as specified in the rules made by the Central Government which shall not exceed,—\n(a) in the case of the President, the age of seventy years;\n(b) in the case of any other member, the age of sixty-seven years.\n(2) Neither the salary and allowances nor the other terms and conditions of service of President and members of the National Commission shall be varied to his disadvantage after his appointment.",
+    "text": "55. (1) The Central Government may, by notification, make rules to provide for qualifications, appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the President and members of the National Commission:\nProvided that the President and members of the National Commission shall hold office for such term as specified in the rules made by the Central Government but not exceeding five years from the date on which he enters upon his office and shall be eligible for re-appointment:\nProvided further that no President or members shall hold office as such after he has attained such age as specified in the rules made by the Central Government which shall not exceed,—",
+    "category_tags": [
+      "Qualifications",
+      "Terms of office",
+      "President",
+      "Members",
+      "Appointment",
+      "Age limit"
+    ]
+  },
+  {
+    "section_no": "55(a)",
+    "title": "Qualifications, terms of office and conditions of service of President and members",
+    "text": "(a) in the case of the President, the age of seventy years;",
+    "category_tags": [
+      "Qualifications",
+      "Terms of office",
+      "President",
+      "Members",
+      "Appointment",
+      "Age limit"
+    ]
+  },
+  {
+    "section_no": "55(b)",
+    "title": "Qualifications, terms of office and conditions of service of President and members",
+    "text": "(b) in the case of any other member, the age of sixty-seven years.",
+    "category_tags": [
+      "Qualifications",
+      "Terms of office",
+      "President",
+      "Members",
+      "Appointment",
+      "Age limit"
+    ]
+  },
+  {
+    "section_no": "55(2)",
+    "title": "Qualifications, terms of office and conditions of service of President and members",
+    "text": "(2) Neither the salary and allowances nor the other terms and conditions of service of President and members of the National Commission shall be varied to his disadvantage after his appointment.",
     "category_tags": [
       "Qualifications",
       "Terms of office",
@@ -977,7 +2653,29 @@
   {
     "section_no": "57",
     "title": "Officers and employees of National Commission",
-    "text": "57. (1) The Central Government shall provide, in consultation with the President of the National Commission, such number of officers and other employees to assist the National Commission in the discharge of its functions as it may think fit.\n(2) The officers and other employees of the National Commission shall discharge their functions under the general superintendence of the President of the National Commission.\n(3) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the National Commission shall be such as may be prescribed.",
+    "text": "57. (1) The Central Government shall provide, in consultation with the President of the National Commission, such number of officers and other employees to assist the National Commission in the discharge of its functions as it may think fit.",
+    "category_tags": [
+      "Staffing",
+      "Officers",
+      "Employees",
+      "Service conditions"
+    ]
+  },
+  {
+    "section_no": "57(2)",
+    "title": "Officers and employees of National Commission",
+    "text": "(2) The officers and other employees of the National Commission shall discharge their functions under the general superintendence of the President of the National Commission.",
+    "category_tags": [
+      "Staffing",
+      "Officers",
+      "Employees",
+      "Service conditions"
+    ]
+  },
+  {
+    "section_no": "57(3)",
+    "title": "Officers and employees of National Commission",
+    "text": "(3) The salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the National Commission shall be such as may be prescribed.",
     "category_tags": [
       "Staffing",
       "Officers",
@@ -988,7 +2686,7 @@
   {
     "section_no": "58",
     "title": "Jurisdiction of National Commission with respect to high-value complaints",
-    "text": "58. (1) Subject to the other provisions of this Act, the National Commission shall have jurisdiction—\n(a) to entertain—\n(i) complaints where the value of the goods or services paid as consideration exceeds rupees ten crore:\nProvided that where the Central Government deems it necessary so to do, it may prescribe",
+    "text": "58. (1) Subject to the other provisions of this Act, the National Commission shall have jurisdiction—",
     "category_tags": [
       "Jurisdiction",
       "Complaint value",
@@ -996,9 +2694,29 @@
     ]
   },
   {
-    "section_no": "58",
+    "section_no": "58(a)",
+    "title": "Jurisdiction of National Commission with respect to high-value complaints",
+    "text": "(a) to entertain—",
+    "category_tags": [
+      "Jurisdiction",
+      "Complaint value",
+      "National Commission"
+    ]
+  },
+  {
+    "section_no": "58(a)(i)",
+    "title": "Jurisdiction of National Commission with respect to high-value complaints",
+    "text": "(i) complaints where the value of the goods or services paid as consideration exceeds rupees ten crore:\nProvided that where the Central Government deems it necessary so to do, it may prescribe",
+    "category_tags": [
+      "Jurisdiction",
+      "Complaint value",
+      "National Commission"
+    ]
+  },
+  {
+    "section_no": "58(ii)",
     "title": "Jurisdiction of National Commission",
-    "text": "(ii) complaints against unfair contracts, where the value of goods or services paid as consideration exceeds ten crore rupees;\n(iii) appeals against the orders of any State Commission;\n(iv) appeals against the orders of the Central Authority;  and\n(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any State Commission where it appears to the National Commission that such State Commission has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested, or has acted in the exercise of its jurisdiction illegally or with material irregularity.\n(2) The jurisdiction, powers and authority of the National Commission may be exercised by Benches thereof and a Bench may be constituted by the President with one or more members as he may deem fit:\nProvided that the senior-most member of the Bench shall preside over the Bench.\n(3) Where the members of a Bench differ in opinion on any point, the points shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and make a reference to the President who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other members and such point or points shall be decided according to the opinion of the majority of the members who have heard the case, including those who first heard it:\nProvided that the President or the other member, as the case may be, shall give opinion on the point or points so referred within a period of two months from the date of such reference.",
+    "text": "(ii) complaints against unfair contracts, where the value of goods or services paid as consideration exceeds ten crore rupees;",
     "category_tags": [
       "Jurisdiction",
       "National Commission",
@@ -1008,9 +2726,81 @@
     ]
   },
   {
-    "section_no": "59",
+    "section_no": "58(iii)",
+    "title": "Jurisdiction of National Commission",
+    "text": "(iii) appeals against the orders of any State Commission;",
+    "category_tags": [
+      "Jurisdiction",
+      "National Commission",
+      "Appeals",
+      "Unfair contracts",
+      "Bench"
+    ]
+  },
+  {
+    "section_no": "58(iv)",
+    "title": "Jurisdiction of National Commission",
+    "text": "(iv) appeals against the orders of the Central Authority;  and",
+    "category_tags": [
+      "Jurisdiction",
+      "National Commission",
+      "Appeals",
+      "Unfair contracts",
+      "Bench"
+    ]
+  },
+  {
+    "section_no": "58(b)",
+    "title": "Jurisdiction of National Commission",
+    "text": "(b) to call for the records and pass appropriate orders in any consumer dispute which is pending before or has been decided by any State Commission where it appears to the National Commission that such State Commission has exercised a jurisdiction not vested in it by law, or has failed to exercise a jurisdiction so vested, or has acted in the exercise of its jurisdiction illegally or with material irregularity.",
+    "category_tags": [
+      "Jurisdiction",
+      "National Commission",
+      "Appeals",
+      "Unfair contracts",
+      "Bench"
+    ]
+  },
+  {
+    "section_no": "58(2)",
+    "title": "Jurisdiction of National Commission",
+    "text": "(2) The jurisdiction, powers and authority of the National Commission may be exercised by Benches thereof and a Bench may be constituted by the President with one or more members as he may deem fit:\nProvided that the senior-most member of the Bench shall preside over the Bench.",
+    "category_tags": [
+      "Jurisdiction",
+      "National Commission",
+      "Appeals",
+      "Unfair contracts",
+      "Bench"
+    ]
+  },
+  {
+    "section_no": "58(3)",
+    "title": "Jurisdiction of National Commission",
+    "text": "(3) Where the members of a Bench differ in opinion on any point, the points shall be decided according to the opinion of the majority, if there is a majority, but if the members are equally divided, they shall state the point or points on which they differ, and make a reference to the President who shall either hear the point or points himself or refer the case for hearing on such point or points by one or more of the other members and such point or points shall be decided according to the opinion of the majority of the members who have heard the case, including those who first heard it:\nProvided that the President or the other member, as the case may be, shall give opinion on the point or points so referred within a period of two months from the date of such reference.",
+    "category_tags": [
+      "Jurisdiction",
+      "National Commission",
+      "Appeals",
+      "Unfair contracts",
+      "Bench"
+    ]
+  },
+  {
+    "section_no": "59(1)",
     "title": "Procedure applicable to National Commission",
-    "text": "(1) The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be considered necessary, be applicable to the disposal of complaints by the National Commission.\n(2) Without prejudice to sub-section (1), the National Commission may also declare any terms of contract, which is unfair to any consumer to be null and void.",
+    "text": "(1) The provisions relating to complaints under sections 35, 36, 37, 38 and 39 shall, with such modifications as may be considered necessary, be applicable to the disposal of complaints by the National Commission.",
+    "category_tags": [
+      "Procedure",
+      "National Commission",
+      "Complaints",
+      "Unfair contract",
+      "Null and void"
+    ]
+  },
+  {
+    "section_no": "59(2)",
+    "title": "Procedure applicable to National Commission",
+    "text": "(2) Without prejudice to sub-section (1), the National Commission may also declare any terms of contract, which is unfair to any consumer to be null and void.",
     "category_tags": [
       "Procedure",
       "National Commission",
@@ -1075,9 +2865,33 @@
     ]
   },
   {
-    "section_no": "65",
+    "section_no": "65(1)",
     "title": "Service of notice",
-    "text": "(1) All notices, required by this Act to be served, shall be served by delivering or transmitting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the complainant by speed post or by such courier service, approved by the District Commission, the State Commission or the National Commission, as the case may be, or by any other mode of transmission of documents including electronic means.\n(2) Without prejudice to the provisions contained in sub-section (1), the notice required by this Act may be served on an electronic service provider at the address provided by it on the electronic platform from where it provides its services as such and for this purpose, the electronic service provider shall designate a nodal officer to accept and process such notices.\n(3) When an acknowledgment or any other receipt purporting to be signed by the opposite party or his agent or, as the case may be, by the complainant is received by the District Commission, the State Commission or the National Commission, as the case may be,",
+    "text": "(1) All notices, required by this Act to be served, shall be served by delivering or transmitting a copy thereof by registered post acknowledgment due addressed to opposite party against whom complaint is made or to the complainant by speed post or by such courier service, approved by the District Commission, the State Commission or the National Commission, as the case may be, or by any other mode of transmission of documents including electronic means.",
+    "category_tags": [
+      "Notice",
+      "Service",
+      "Electronic",
+      "National Commission",
+      "Registered post"
+    ]
+  },
+  {
+    "section_no": "65(2)",
+    "title": "Service of notice",
+    "text": "(2) Without prejudice to the provisions contained in sub-section (1), the notice required by this Act may be served on an electronic service provider at the address provided by it on the electronic platform from where it provides its services as such and for this purpose, the electronic service provider shall designate a nodal officer to accept and process such notices.",
+    "category_tags": [
+      "Notice",
+      "Service",
+      "Electronic",
+      "National Commission",
+      "Registered post"
+    ]
+  },
+  {
+    "section_no": "65(3)",
+    "title": "Service of notice",
+    "text": "(3) When an acknowledgment or any other receipt purporting to be signed by the opposite party or his agent or, as the case may be, by the complainant is received by the District Commission, the State Commission or the National Commission, as the case may be,",
     "category_tags": [
       "Notice",
       "Service",
@@ -1128,7 +2942,7 @@
     ]
   },
   {
-    "section_no": "69",
+    "section_no": "69(1)",
     "title": "Limitation period for filing complaint",
     "text": "(1) The District Commission, the State Commission or the National Commission shall not admit a complaint unless it is filed within two years from the date on which the cause of action has arisen. (2) Notwithstanding anything contained in sub-section (1), a complaint may be entertained after the period specified in sub-section (1), if the complainant satisfies the District Commission, the State Commission or the National Commission, as the case may be, that he had sufficient cause for not filing the complaint within such period: Provided that no such complaint shall be entertained unless the District Commission or the State Commission or the National Commission, as the case may be, records its reasons for condoning such delay.",
     "category_tags": [
@@ -1138,7 +2952,7 @@
     ]
   },
   {
-    "section_no": "70",
+    "section_no": "70(1)",
     "title": "Standards and administrative control of State Commissions",
     "text": "(1) The National Commission shall have the authority to lay down such adequate standards in consultation with the Central Government from time to time, for better protection of the interests of consumers and for that purpose, shall have administrative control over all the State Commissions in the following matters, namely:— (a) monitoring performance of the State Commissions in terms of their disposal by calling for periodical returns regarding the institution, disposal and pendency of cases; (b) investigating into any allegations against the President and members of a State Commission and submitting inquiry report to the State Government concerned along with copy endorsed to the Central Government for necessary action; (c) issuance of instructions regarding adoption of uniform procedure in the hearing of matters, prior service of copies of documents produced by one party to the opposite parties, furnishing of English translation of judgments written in any language, speedy grant of copies of documents; Experts to assist National Commission or State Commission.",
     "category_tags": [
@@ -1159,9 +2973,9 @@
     ]
   },
   {
-    "section_no": "72",
+    "section_no": "72(1)",
     "title": "Penalty for non‑compliance of order",
-    "text": "(1) Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission, as the case may be, shall be punishable with imprisonment for a term which shall not be less than one month, but which may extend to three years, or with fine, which shall not be less than twenty‑five thousand rupees, but which may extend to one lakh rupees, or with both.\n\n(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the District Commission, the State Commission or the National Commission, as the case may be, shall have the power of a Judicial Magistrate of first class for the trial of offences under sub‑section (1), and on conferment of such powers, the District Commission or the State Commission or the National Commission, as the case may be, shall be deemed to be a Judicial Magistrate of first class for the purposes of the Code of Criminal Procedure, 1973.\n\n(3) Save as otherwise provided, the offences under sub‑section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be.",
+    "text": "(1) Whoever fails to comply with any order made by the District Commission or the State Commission or the National Commission, as the case may be, shall be punishable with imprisonment for a term which shall not be less than one month, but which may extend to three years, or with fine, which shall not be less than twenty‑five thousand rupees, but which may extend to one lakh rupees, or with both.",
     "category_tags": [
       "Penalty for non-compliance",
       "Offences and punishment",
@@ -1169,9 +2983,29 @@
     ]
   },
   {
-    "section_no": "73",
+    "section_no": "72(2)",
+    "title": "Penalty for non‑compliance of order",
+    "text": "(2) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, the District Commission, the State Commission or the National Commission, as the case may be, shall have the power of a Judicial Magistrate of first class for the trial of offences under sub‑section (1), and on conferment of such powers, the District Commission or the State Commission or the National Commission, as the case may be, shall be deemed to be a Judicial Magistrate of first class for the purposes of the Code of Criminal Procedure, 1973.",
+    "category_tags": [
+      "Penalty for non-compliance",
+      "Offences and punishment",
+      "Criminal procedure"
+    ]
+  },
+  {
+    "section_no": "72(3)",
+    "title": "Penalty for non‑compliance of order",
+    "text": "(3) Save as otherwise provided, the offences under sub‑section (1) shall be tried summarily by the District Commission or the State Commission or the National Commission, as the case may be.",
+    "category_tags": [
+      "Penalty for non-compliance",
+      "Offences and punishment",
+      "Criminal procedure"
+    ]
+  },
+  {
+    "section_no": "73(1)",
     "title": "Appeal against order passed under section 72",
-    "text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, where an order is passed under sub‑section (1) of section 72, an appeal shall lie, both on facts and on law from—\n(a) the order made by the District Commission to the State Commission;\n(b) the order made by the State Commission to the National Commission; and\n(c) the order made by the National Commission to the Supreme Court.\n\n(2) Except as provided in sub‑section (1), no appeal shall lie before any court, from any order of a District Commission or a State Commission or the National Commission, as the case may be.\n\n(3) Every appeal under this section shall be preferred within a period of thirty days from the date of order of a District Commission or a State Commission or the National Commission, as the case may be: Provided that the State Commission or the National Commission or the Supreme Court, as the case may be, may entertain an appeal after the expiry of the said period of thirty days, if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the said period of thirty days.",
+    "text": "(1) Notwithstanding anything contained in the Code of Criminal Procedure, 1973, where an order is passed under sub‑section (1) of section 72, an appeal shall lie, both on facts and on law from—",
     "category_tags": [
       "Appeal procedure",
       "Appeal against orders",
@@ -1179,9 +3013,59 @@
     ]
   },
   {
-    "section_no": "74",
+    "section_no": "73(1)(a)",
+    "title": "Appeal against order passed under section 72",
+    "text": "(a) the order made by the District Commission to the State Commission;",
+    "category_tags": [
+      "Appeal procedure",
+      "Appeal against orders",
+      "Judicial review"
+    ]
+  },
+  {
+    "section_no": "73(1)(b)",
+    "title": "Appeal against order passed under section 72",
+    "text": "(b) the order made by the State Commission to the National Commission; and",
+    "category_tags": [
+      "Appeal procedure",
+      "Appeal against orders",
+      "Judicial review"
+    ]
+  },
+  {
+    "section_no": "73(1)(c)",
+    "title": "Appeal against order passed under section 72",
+    "text": "(c) the order made by the National Commission to the Supreme Court.",
+    "category_tags": [
+      "Appeal procedure",
+      "Appeal against orders",
+      "Judicial review"
+    ]
+  },
+  {
+    "section_no": "73(2)",
+    "title": "Appeal against order passed under section 72",
+    "text": "(2) Except as provided in sub‑section (1), no appeal shall lie before any court, from any order of a District Commission or a State Commission or the National Commission, as the case may be.",
+    "category_tags": [
+      "Appeal procedure",
+      "Appeal against orders",
+      "Judicial review"
+    ]
+  },
+  {
+    "section_no": "73(3)",
+    "title": "Appeal against order passed under section 72",
+    "text": "(3) Every appeal under this section shall be preferred within a period of thirty days from the date of order of a District Commission or a State Commission or the National Commission, as the case may be: Provided that the State Commission or the National Commission or the Supreme Court, as the case may be, may entertain an appeal after the expiry of the said period of thirty days, if it is satisfied that the appellant had sufficient cause for not preferring the appeal within the said period of thirty days.",
+    "category_tags": [
+      "Appeal procedure",
+      "Appeal against orders",
+      "Judicial review"
+    ]
+  },
+  {
+    "section_no": "74(1)",
     "title": "Mediation",
-    "text": "(1) The State Government shall establish, by notification, a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State.\n\n(2) The Central Government shall establish, by notification, a consumer mediation cell to be attached to the National Commission and each of the regional Benches.\n\n(3) A consumer mediation cell shall consist of such persons as may be prescribed.\n\n(4) Every consumer mediation cell shall maintain—\n(a) a list of empanelled mediators;\n(b) a list of cases handled by the cell;\n(c) record of proceeding; and\n(d) any other information as may be specified by regulations.\n\n(5) Every consumer mediation cell shall submit a quarterly report to the District Commission, State Commission or the National Commission to which it is attached, in the manner specified by regulations.",
+    "text": "(1) The State Government shall establish, by notification, a consumer mediation cell to be attached to each of the District Commissions and the State Commissions of that State.",
     "category_tags": [
       "Consumer mediation",
       "Alternative dispute resolution",
@@ -1189,9 +3073,109 @@
     ]
   },
   {
-    "section_no": "75",
+    "section_no": "74(2)",
+    "title": "Mediation",
+    "text": "(2) The Central Government shall establish, by notification, a consumer mediation cell to be attached to the National Commission and each of the regional Benches.",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(3)",
+    "title": "Mediation",
+    "text": "(3) A consumer mediation cell shall consist of such persons as may be prescribed.",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(4)",
+    "title": "Mediation",
+    "text": "(4) Every consumer mediation cell shall maintain—",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(4)(a)",
+    "title": "Mediation",
+    "text": "(a) a list of empanelled mediators;",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(4)(b)",
+    "title": "Mediation",
+    "text": "(b) a list of cases handled by the cell;",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(4)(c)",
+    "title": "Mediation",
+    "text": "(c) record of proceeding; and",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(4)(d)",
+    "title": "Mediation",
+    "text": "(d) any other information as may be specified by regulations.",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "74(5)",
+    "title": "Mediation",
+    "text": "(5) Every consumer mediation cell shall submit a quarterly report to the District Commission, State Commission or the National Commission to which it is attached, in the manner specified by regulations.",
+    "category_tags": [
+      "Consumer mediation",
+      "Alternative dispute resolution",
+      "Mediation cell"
+    ]
+  },
+  {
+    "section_no": "75(1)",
     "title": "Establishment of consumer mediation cell. Empanelment of mediators.",
-    "text": "(1) For the purpose of mediation, the National Commission or the State Commission or the District Commission, as the case may be, shall prepare a panel of the mediators to be maintained by the consumer mediation cell attached to it, on the recommendation of a selection committee consisting of the President and a member of that Commission.\n\n(2) The qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and other matters relating thereto, shall be such as may be specified by regulations.\n\n(3) The panel of mediators prepared under sub-section (1) shall be valid for a period of five years, and the empanelled mediators shall be eligible to be considered for re-empanelment for another term, subject to such conditions as may be specified by regulations.",
+    "text": "(1) For the purpose of mediation, the National Commission or the State Commission or the District Commission, as the case may be, shall prepare a panel of the mediators to be maintained by the consumer mediation cell attached to it, on the recommendation of a selection committee consisting of the President and a member of that Commission.",
+    "category_tags": [
+      "Mediation",
+      "Empanelment of mediators",
+      "Consumer dispute resolution"
+    ]
+  },
+  {
+    "section_no": "75(2)",
+    "title": "Establishment of consumer mediation cell. Empanelment of mediators.",
+    "text": "(2) The qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and other matters relating thereto, shall be such as may be specified by regulations.",
+    "category_tags": [
+      "Mediation",
+      "Empanelment of mediators",
+      "Consumer dispute resolution"
+    ]
+  },
+  {
+    "section_no": "75(3)",
+    "title": "Establishment of consumer mediation cell. Empanelment of mediators.",
+    "text": "(3) The panel of mediators prepared under sub-section (1) shall be valid for a period of five years, and the empanelled mediators shall be eligible to be considered for re-empanelment for another term, subject to such conditions as may be specified by regulations.",
     "category_tags": [
       "Mediation",
       "Empanelment of mediators",
@@ -1210,7 +3194,37 @@
   {
     "section_no": "77",
     "title": "Duty of mediator to disclose certain facts.",
-    "text": "It shall be the duty of the mediator to disclose—\n(a) any personal, professional or financial interest in the outcome of the consumer dispute;\n(b) the circumstances which may give rise to a justifiable doubt as to his independence or impartiality; and\n(c) such other facts as may be specified by regulations.",
+    "text": "It shall be the duty of the mediator to disclose—",
+    "category_tags": [
+      "Mediation",
+      "Disclosure",
+      "Conflict of interest"
+    ]
+  },
+  {
+    "section_no": "77(a)",
+    "title": "Duty of mediator to disclose certain facts.",
+    "text": "(a) any personal, professional or financial interest in the outcome of the consumer dispute;",
+    "category_tags": [
+      "Mediation",
+      "Disclosure",
+      "Conflict of interest"
+    ]
+  },
+  {
+    "section_no": "77(b)",
+    "title": "Duty of mediator to disclose certain facts.",
+    "text": "(b) the circumstances which may give rise to a justifiable doubt as to his independence or impartiality; and",
+    "category_tags": [
+      "Mediation",
+      "Disclosure",
+      "Conflict of interest"
+    ]
+  },
+  {
+    "section_no": "77(c)",
+    "title": "Duty of mediator to disclose certain facts.",
+    "text": "(c) such other facts as may be specified by regulations.",
     "category_tags": [
       "Mediation",
       "Disclosure",
@@ -1227,9 +3241,9 @@
     ]
   },
   {
-    "section_no": "79",
+    "section_no": "79(1)",
     "title": "Mediation proceedings in consumer mediation cell.",
-    "text": "(1) The mediation shall be held in the consumer mediation cell attached to the District Commission, the State Commission or the National Commission, as the case may be.\n\n(2) Where a consumer dispute is referred for mediation by the District Commission or the State Commission or the National Commission, as the case may be, the mediator nominated by such Commission shall have regard to the rights and obligations of the parties, the usages of trade, if any, the circumstances giving rise to the consumer dispute and such other relevant factors, as he may deem necessary and shall be guided by the principles of natural justice while carrying out mediation.\n\n(3) The mediator so nominated shall conduct mediation within such time and in such manner as may be specified by regulations.",
+    "text": "(1) The mediation shall be held in the consumer mediation cell attached to the District Commission, the State Commission or the National Commission, as the case may be.",
     "category_tags": [
       "Mediation",
       "Procedure",
@@ -1237,9 +3251,29 @@
     ]
   },
   {
-    "section_no": "80",
+    "section_no": "79(2)",
+    "title": "Mediation proceedings in consumer mediation cell.",
+    "text": "(2) Where a consumer dispute is referred for mediation by the District Commission or the State Commission or the National Commission, as the case may be, the mediator nominated by such Commission shall have regard to the rights and obligations of the parties, the usages of trade, if any, the circumstances giving rise to the consumer dispute and such other relevant factors, as he may deem necessary and shall be guided by the principles of natural justice while carrying out mediation.",
+    "category_tags": [
+      "Mediation",
+      "Procedure",
+      "Consumer mediation cell"
+    ]
+  },
+  {
+    "section_no": "79(3)",
+    "title": "Mediation proceedings in consumer mediation cell.",
+    "text": "(3) The mediator so nominated shall conduct mediation within such time and in such manner as may be specified by regulations.",
+    "category_tags": [
+      "Mediation",
+      "Procedure",
+      "Consumer mediation cell"
+    ]
+  },
+  {
+    "section_no": "80(1)",
     "title": "Settlement agreement and report.",
-    "text": "(1) Pursuant to mediation, if an agreement is reached between the parties with respect to all of the issues involved in the consumer dispute or with respect to only some of the issues, the terms of such agreement shall be reduced to writing accordingly, and signed by the parties to such dispute or their authorised representatives.\n\n(2) The mediator shall prepare a settlement report of the settlement and forward the signed agreement along with such report to the concerned Commission.\n\n(3) Where no agreement is reached between the parties within the specified time or the mediator is of the opinion that settlement is not possible, he shall prepare his report accordingly and submit the same to the concerned Commission.",
+    "text": "(1) Pursuant to mediation, if an agreement is reached between the parties with respect to all of the issues involved in the consumer dispute or with respect to only some of the issues, the terms of such agreement shall be reduced to writing accordingly, and signed by the parties to such dispute or their authorised representatives.",
     "category_tags": [
       "Mediation",
       "Settlement agreement",
@@ -1247,9 +3281,49 @@
     ]
   },
   {
-    "section_no": "81",
+    "section_no": "80(2)",
+    "title": "Settlement agreement and report.",
+    "text": "(2) The mediator shall prepare a settlement report of the settlement and forward the signed agreement along with such report to the concerned Commission.",
+    "category_tags": [
+      "Mediation",
+      "Settlement agreement",
+      "Report"
+    ]
+  },
+  {
+    "section_no": "80(3)",
+    "title": "Settlement agreement and report.",
+    "text": "(3) Where no agreement is reached between the parties within the specified time or the mediator is of the opinion that settlement is not possible, he shall prepare his report accordingly and submit the same to the concerned Commission.",
+    "category_tags": [
+      "Mediation",
+      "Settlement agreement",
+      "Report"
+    ]
+  },
+  {
+    "section_no": "81(1)",
     "title": "Orders on settlement and continuation of hearing.",
-    "text": "(1) The District Commission or the State Commission or the National Commission, as the case may be, shall, within seven days of the receipt of the settlement report, pass suitable order recording such settlement of consumer dispute and dispose of the matter accordingly.\n\n(2) Where the consumer dispute is settled only in part, the District Commission or the State Commission or the National Commission, as the case may be, shall record settlement of the issues which have been so settled and continue to hear other issues involved in such consumer dispute.\n\n(3) Where the consumer dispute could not be settled by mediation, the District Commission or the State Commission or the National Commission, as the case may be, shall continue to hear all the issues involved in such consumer dispute.",
+    "text": "(1) The District Commission or the State Commission or the National Commission, as the case may be, shall, within seven days of the receipt of the settlement report, pass suitable order recording such settlement of consumer dispute and dispose of the matter accordingly.",
+    "category_tags": [
+      "Mediation",
+      "Settlement order",
+      "Continuation of hearing"
+    ]
+  },
+  {
+    "section_no": "81(2)",
+    "title": "Orders on settlement and continuation of hearing.",
+    "text": "(2) Where the consumer dispute is settled only in part, the District Commission or the State Commission or the National Commission, as the case may be, shall record settlement of the issues which have been so settled and continue to hear other issues involved in such consumer dispute.",
+    "category_tags": [
+      "Mediation",
+      "Settlement order",
+      "Continuation of hearing"
+    ]
+  },
+  {
+    "section_no": "81(3)",
+    "title": "Orders on settlement and continuation of hearing.",
+    "text": "(3) Where the consumer dispute could not be settled by mediation, the District Commission or the State Commission or the National Commission, as the case may be, shall continue to hear all the issues involved in such consumer dispute.",
     "category_tags": [
       "Mediation",
       "Settlement order",
@@ -1276,9 +3350,69 @@
     ]
   },
   {
-    "section_no": "84",
+    "section_no": "84(1)",
     "title": "Liability of product manufacturer",
-    "text": "(1) A product manufacturer shall be liable in a product liability action, if—\n(a) the product contains a manufacturing defect; or\n(b) the product is defective in design; or\n(c) there is a deviation from manufacturing specifications; or\n(d) the product does not conform to the express warranty; or\n(e) the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage.\n(2) A product manufacturer shall be liable in a product liability action even if he proves that he was not negligent or fraudulent in making the express warranty of a product.",
+    "text": "(1) A product manufacturer shall be liable in a product liability action, if—",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(1)(a)",
+    "title": "Liability of product manufacturer",
+    "text": "(a) the product contains a manufacturing defect; or",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(1)(b)",
+    "title": "Liability of product manufacturer",
+    "text": "(b) the product is defective in design; or",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(1)(c)",
+    "title": "Liability of product manufacturer",
+    "text": "(c) there is a deviation from manufacturing specifications; or",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(1)(d)",
+    "title": "Liability of product manufacturer",
+    "text": "(d) the product does not conform to the express warranty; or",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(1)(e)",
+    "title": "Liability of product manufacturer",
+    "text": "(e) the product fails to contain adequate instructions of correct usage to prevent any harm or any warning regarding improper or incorrect usage.",
+    "category_tags": [
+      "Product liability",
+      "Manufacturer liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "84(2)",
+    "title": "Liability of product manufacturer",
+    "text": "(2) A product manufacturer shall be liable in a product liability action even if he proves that he was not negligent or fraudulent in making the express warranty of a product.",
     "category_tags": [
       "Product liability",
       "Manufacturer liability",
@@ -1288,7 +3422,47 @@
   {
     "section_no": "85",
     "title": "Liability of product service provider",
-    "text": "A product service provider shall be liable in a product liability action, if—\n(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or\n(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or\n(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or\n(d) the service did not conform to express warranty or the terms and conditions of the contract.",
+    "text": "A product service provider shall be liable in a product liability action, if—",
+    "category_tags": [
+      "Product liability",
+      "Service provider liability",
+      "Defective services"
+    ]
+  },
+  {
+    "section_no": "85(a)",
+    "title": "Liability of product service provider",
+    "text": "(a) the service provided by him was faulty or imperfect or deficient or inadequate in quality, nature or manner of performance which is required to be provided by or under any law for the time being in force, or pursuant to any contract or otherwise; or",
+    "category_tags": [
+      "Product liability",
+      "Service provider liability",
+      "Defective services"
+    ]
+  },
+  {
+    "section_no": "85(b)",
+    "title": "Liability of product service provider",
+    "text": "(b) there was an act of omission or commission or negligence or conscious withholding any information which caused harm; or",
+    "category_tags": [
+      "Product liability",
+      "Service provider liability",
+      "Defective services"
+    ]
+  },
+  {
+    "section_no": "85(c)",
+    "title": "Liability of product service provider",
+    "text": "(c) the service provider did not issue adequate instructions or warnings to prevent any harm; or",
+    "category_tags": [
+      "Product liability",
+      "Service provider liability",
+      "Defective services"
+    ]
+  },
+  {
+    "section_no": "85(d)",
+    "title": "Liability of product service provider",
+    "text": "(d) the service did not conform to express warranty or the terms and conditions of the contract.",
     "category_tags": [
       "Product liability",
       "Service provider liability",
@@ -1298,7 +3472,7 @@
   {
     "section_no": "86",
     "title": "Liability of product sellers",
-    "text": "A product seller who is not a product manufacturer shall be liable in a product liability action, if—\n(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or\n(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or\n(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or\n(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or\n(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.",
+    "text": "A product seller who is not a product manufacturer shall be liable in a product liability action, if—",
     "category_tags": [
       "Product liability",
       "Seller liability",
@@ -1306,9 +3480,125 @@
     ]
   },
   {
-    "section_no": "87",
+    "section_no": "86(a)",
+    "title": "Liability of product sellers",
+    "text": "(a) he has exercised substantial control over the designing, testing, manufacturing, packaging or labelling of a product that caused harm; or",
+    "category_tags": [
+      "Product liability",
+      "Seller liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "86(b)",
+    "title": "Liability of product sellers",
+    "text": "(b) he has altered or modified the product and such alteration or modification was the substantial factor in causing the harm; or",
+    "category_tags": [
+      "Product liability",
+      "Seller liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "86(c)",
+    "title": "Liability of product sellers",
+    "text": "(c) he has made an express warranty of a product independent of any express warranty made by a manufacturer and such product failed to conform to the express warranty made by the product seller which caused the harm; or",
+    "category_tags": [
+      "Product liability",
+      "Seller liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "86(d)",
+    "title": "Liability of product sellers",
+    "text": "(d) the product has been sold by him and the identity of product manufacturer of such product is not known, or if known, the service of notice or process or warrant cannot be effected on him or he is not subject to the law which is in force in India or the order, if any, passed or to be passed cannot be enforced against him; or",
+    "category_tags": [
+      "Product liability",
+      "Seller liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "86(e)",
+    "title": "Liability of product sellers",
+    "text": "(e) he failed to exercise reasonable care in assembling, inspecting or maintaining such product or he did not pass on the warnings or instructions of the product manufacturer regarding the dangers involved or proper usage of the product while selling such product and such failure was the proximate cause of the harm.",
+    "category_tags": [
+      "Product liability",
+      "Seller liability",
+      "Defective goods"
+    ]
+  },
+  {
+    "section_no": "87(1)",
     "title": "Exceptions to product liability action",
-    "text": "(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.\n(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—\n(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;\n(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;\n(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or\n(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.\n(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.",
+    "text": "(1) A product liability action cannot be brought against the product seller if, at the time of harm, the product was misused, altered, or modified.",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(2)",
+    "title": "Exceptions to product liability action",
+    "text": "(2) In any product liability action based on the failure to provide adequate warnings or instructions, the product manufacturer shall not be liable, if—",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(2)(a)",
+    "title": "Exceptions to product liability action",
+    "text": "(a) the product was purchased by an employer for use at the workplace and the product manufacturer had provided warnings or instructions to such employer;",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(2)(b)",
+    "title": "Exceptions to product liability action",
+    "text": "(b) the product was sold as a component or material to be used in another product and necessary warnings or instructions were given by the product manufacturer to the purchaser of such component or material, but the harm was caused to the complainant by use of the end product in which such component or material was used;",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(2)(c)",
+    "title": "Exceptions to product liability action",
+    "text": "(c) the product was one which was legally meant to be used or dispensed only by or under the supervision of an expert or a class of experts and the product manufacturer had employed reasonable means to give the warnings or instructions for usage of such product to such expert or class of experts; or",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(2)(d)",
+    "title": "Exceptions to product liability action",
+    "text": "(d) the complainant, while using such product, was under the influence of alcohol or any prescription drug which had not been prescribed by a medical practitioner.",
+    "category_tags": [
+      "Product liability",
+      "Exceptions",
+      "Misuse",
+      "Warnings"
+    ]
+  },
+  {
+    "section_no": "87(3)",
+    "title": "Exceptions to product liability action",
+    "text": "(3) A product manufacturer shall not be liable for failure to instruct or warn about a danger which is obvious or commonly known to the user or consumer of such product or which, such user or consumer, ought to have known, taking into account the characteristics of such product.",
     "category_tags": [
       "Product liability",
       "Exceptions",
@@ -1425,9 +3715,18 @@
     ]
   },
   {
-    "section_no": "99",
+    "section_no": "99(1)",
     "title": "Directions by Central Government on questions of policy",
-    "text": "(1) Without prejudice to the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, as the Central Government may give in writing to it from time to time: Provided that the Central Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.\n(2) The decision of the Central Government whether a question is one of policy or not shall be final.",
+    "text": "(1) Without prejudice to the foregoing provisions of this Act, the Central Authority, shall, in exercise of its powers or the performance of its functions under this Act, be bound by such directions on questions of policy, as the Central Government may give in writing to it from time to time: Provided that the Central Authority shall, as far as practicable, be given an opportunity to express its views before any direction is given under this sub-section.",
+    "category_tags": [
+      "Policy direction",
+      "Power to give directions by Central Government"
+    ]
+  },
+  {
+    "section_no": "99(2)",
+    "title": "Directions by Central Government on questions of policy",
+    "text": "(2) The decision of the Central Government whether a question is one of policy or not shall be final.",
     "category_tags": [
       "Policy direction",
       "Power to give directions by Central Government"
@@ -1443,9 +3742,108 @@
     ]
   },
   {
-    "section_no": "101",
+    "section_no": "101(1)",
     "title": "Power of Central Government to make rules",
-    "text": "(1) The Central Government may, by notification, make rules for carrying out any of the provisions contained in this Act.\n(2) Without prejudice to the generality of the foregoing power, such rules may provide for, —\n(a) the other class or classes of persons including public utility entities under clause (19) of section 2;\n(b) the contest, lottery, game of chance or skill which are to be exempted under item (b) of sub‑clause (iii) of clause (47) of section 2;\n(c) the manner of issuing bill or cash memo or receipt for goods sold or services rendered under sub‑clause (vii) of clause (47) of section 2;\n(d) the number of other official or non‑official members of the Central Council under clause (b) of sub‑section (2) of section 3;\n(e) the time and place of meeting of Central Council and the procedure for the transaction of its business under sub‑section (2) of section 4;\n(f) the number of Commissioners in the Central Authority under sub‑section (2) of section 10;\n(g) the qualifications for appointment, method of recruitment, procedure of appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the Chief Commissioner and other Commissioners of the Central Authority under section 11;\n(h) the salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the Central Authority under sub‑section (2) of section 13;\n(i) the qualifications for appointment of Director General, Additional Director General, Director, Joint Director, Deputy Director and Assistant Director and the manner of appointment under sub‑section (2) of section 15;\n(j) the manner of taking copies or extracts of document, record or article seized or ...",
+    "text": "(1) The Central Government may, by notification, make rules for carrying out any of the provisions contained in this Act.",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)",
+    "title": "Power of Central Government to make rules",
+    "text": "(2) Without prejudice to the generality of the foregoing power, such rules may provide for, —",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(a)",
+    "title": "Power of Central Government to make rules",
+    "text": "(a) the other class or classes of persons including public utility entities under clause (19) of section 2;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(b)",
+    "title": "Power of Central Government to make rules",
+    "text": "(b) the contest, lottery, game of chance or skill which are to be exempted under item (b) of sub‑clause (iii) of clause (47) of section 2;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(c)",
+    "title": "Power of Central Government to make rules",
+    "text": "(c) the manner of issuing bill or cash memo or receipt for goods sold or services rendered under sub‑clause (vii) of clause (47) of section 2;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(d)",
+    "title": "Power of Central Government to make rules",
+    "text": "(d) the number of other official or non‑official members of the Central Council under clause (b) of sub‑section (2) of section 3;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(e)",
+    "title": "Power of Central Government to make rules",
+    "text": "(e) the time and place of meeting of Central Council and the procedure for the transaction of its business under sub‑section (2) of section 4;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(f)",
+    "title": "Power of Central Government to make rules",
+    "text": "(f) the number of Commissioners in the Central Authority under sub‑section (2) of section 10;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(g)",
+    "title": "Power of Central Government to make rules",
+    "text": "(g) the qualifications for appointment, method of recruitment, procedure of appointment, term of office, salaries and allowances, resignation, removal and other terms and conditions of service of the Chief Commissioner and other Commissioners of the Central Authority under section 11;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(h)",
+    "title": "Power of Central Government to make rules",
+    "text": "(h) the salaries and allowances payable to, and the other terms and conditions of service of, the officers and other employees of the Central Authority under sub‑section (2) of section 13;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(h)(i)",
+    "title": "Power of Central Government to make rules",
+    "text": "(i) the qualifications for appointment of Director General, Additional Director General, Director, Joint Director, Deputy Director and Assistant Director and the manner of appointment under sub‑section (2) of section 15;",
+    "category_tags": [
+      "Rule-making power",
+      "Power of Central Government to make rules"
+    ]
+  },
+  {
+    "section_no": "101(2)(j)",
+    "title": "Power of Central Government to make rules",
+    "text": "(j) the manner of taking copies or extracts of document, record or article seized or ...",
     "category_tags": [
       "Rule-making power",
       "Power of Central Government to make rules"
@@ -1747,25 +4145,160 @@
     ]
   },
   {
-    "section_no": "103",
+    "section_no": "103(1)",
     "title": "Power of National Commission to make regulations",
-    "text": "(1) The National Commission may, with the previous approval of the Central Government, by notification, make regulations not inconsistent with this Act to provide for all matters for which provision is necessary or expedient for the purpose of giving effect to the provisions of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may make provisions for—\n(a) the costs for adjournment to be imposed by the District Commission under the second proviso to sub-section (7) of section 38;\n(b) the costs for adjournment to be imposed by the State Commission or the National Commission, as the case may be, under the second proviso to section 52;\n(c) the maintenance of any other information by the consumer mediation cell under sub-section (4) of section 74;\n(d) the manner of submission of quarterly report by consumer mediation cell to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74;\n(e) the qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and the other matters relating thereto under sub-section (2) of section 75;\n(f) the conditions for re-empanelment of mediators for another term under sub-section (3) of section 75;\n(g) the other facts to be disclosed by mediators under clause (c) of section 77;\n(h) the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79; and\n(i) such other matter for which provision is to be, or may be, made by regulation.",
+    "text": "(1) The National Commission may, with the previous approval of the Central Government, by notification, make regulations not inconsistent with this Act to provide for all matters for which provision is necessary or expedient for the purpose of giving effect to the provisions of this Act.",
     "category_tags": [
       "Regulation-making",
       "Procedural"
     ]
   },
   {
-    "section_no": "104",
+    "section_no": "103(2)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may make provisions for—",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(a)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(a) the costs for adjournment to be imposed by the District Commission under the second proviso to sub-section (7) of section 38;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(b)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(b) the costs for adjournment to be imposed by the State Commission or the National Commission, as the case may be, under the second proviso to section 52;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(c)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(c) the maintenance of any other information by the consumer mediation cell under sub-section (4) of section 74;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(d)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(d) the manner of submission of quarterly report by consumer mediation cell to the District Commission, the State Commission or the National Commission under sub-section (5) of section 74;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(e)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(e) the qualifications and experience required for empanelment as mediator, the procedure for empanelment, the manner of training empanelled mediators, the fee payable to empanelled mediator, the terms and conditions for empanelment, the code of conduct for empanelled mediators, the grounds on which, and the manner in which, empanelled mediators shall be removed or empanelment shall be cancelled and the other matters relating thereto under sub-section (2) of section 75;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(f)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(f) the conditions for re-empanelment of mediators for another term under sub-section (3) of section 75;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(g)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(g) the other facts to be disclosed by mediators under clause (c) of section 77;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(h)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(h) the time within which, and the manner in which, mediation may be conducted under sub-section (3) of section 79; and",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "103(2)(h)(i)",
+    "title": "Power of National Commission to make regulations",
+    "text": "(i) such other matter for which provision is to be, or may be, made by regulation.",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "104(1)",
     "title": "Power of Central Authority to make regulations",
-    "text": "(1) The Central Authority may, with the previous approval of the Central Government, by notification, make regulations not inconsistent with this Act, for the purpose of giving effect to the provisions of this Act.\n(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—\n(a) the procedure for engaging experts and professionals and the number of such experts and professionals under sub-section (3) of section 13;\n(b) the procedure for transaction of business and the allocation of business of the Chief Commissioner and Commissioner under sub-section (1) of section 14;\n(c) the form, manner and time within which, inquiries or investigation made by the Director-General shall be submitted to the Central Authority under sub-section (5) of section 15; and\n(d) such other matter for which provision is to be, or may be, made by regulation.",
+    "text": "(1) The Central Authority may, with the previous approval of the Central Government, by notification, make regulations not inconsistent with this Act, for the purpose of giving effect to the provisions of this Act.",
     "category_tags": [
       "Regulation-making",
       "Procedural"
     ]
   },
   {
-    "section_no": "105",
+    "section_no": "104(2)",
+    "title": "Power of Central Authority to make regulations",
+    "text": "(2) In particular, and without prejudice to the generality of the foregoing power, such regulations may provide for all or any of the following matters, namely:—",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "104(2)(a)",
+    "title": "Power of Central Authority to make regulations",
+    "text": "(a) the procedure for engaging experts and professionals and the number of such experts and professionals under sub-section (3) of section 13;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "104(2)(b)",
+    "title": "Power of Central Authority to make regulations",
+    "text": "(b) the procedure for transaction of business and the allocation of business of the Chief Commissioner and Commissioner under sub-section (1) of section 14;",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "104(2)(c)",
+    "title": "Power of Central Authority to make regulations",
+    "text": "(c) the form, manner and time within which, inquiries or investigation made by the Director-General shall be submitted to the Central Authority under sub-section (5) of section 15; and",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "104(2)(d)",
+    "title": "Power of Central Authority to make regulations",
+    "text": "(d) such other matter for which provision is to be, or may be, made by regulation.",
+    "category_tags": [
+      "Regulation-making",
+      "Procedural"
+    ]
+  },
+  {
+    "section_no": "105(1)",
     "title": "",
     "text": "(1) Every rule and every regulation made under this Act shall be lai",
     "category_tags": [
