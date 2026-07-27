@@ -56,8 +56,7 @@ export const Home: React.FC<HomeProps> = ({ onAnalysisSuccess }) => {
     } catch (err: any) {
       console.error(err);
       setError(
-        err.message || 
-        'An error occurred while analyzing the dispute. Grok API might be experiencing downtime; please try again later.'
+        'An error occurred while analyzing the dispute. AI might be experiencing downtime; please try again later.'
       );
     } finally {
       setLoading(false);
@@ -113,7 +112,7 @@ export const Home: React.FC<HomeProps> = ({ onAnalysisSuccess }) => {
           </div>
 
           <button type="submit" disabled={loading} id="submit-btn" style={{ width: '100%' }}>
-            {loading ? 'Analyzing Case Details with Grok...' : 'Submit Assessment'}
+            {loading ? 'Analyzing Case Details' : 'Submit Assessment'}
           </button>
         </form>
       </div>

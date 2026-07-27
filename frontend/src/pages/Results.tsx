@@ -240,7 +240,7 @@ export const Results: React.FC<ResultsProps> = ({ analysis, onNoticeGenerated, o
           id="draft-notice-btn"
           style={{ padding: '1rem 3rem', fontSize: '1.1rem' }}
         >
-          {drafting ? 'Drafting Legal Notice with Grok...' : 'Generate Legal Notice Draft'}
+          {drafting ? 'Drafting Legal Notice' : 'Generate Legal Notice Draft'}
         </button>
         {citedSectionsWithDetails.length === 0 && (
           <p style={{ color: '#ef4444', fontSize: '0.85rem', marginTop: '0.5rem' }}>
