@@ -9,6 +9,7 @@ PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_ENV = os.getenv("PINECONE_ENV", "us-east-1")
 GROK_BASE_URL = os.getenv("GROK_BASE_URL", "https://api.x.ai/v1")
 GROK_MODEL_NAME = os.getenv("GROK_MODEL_NAME", "grok-2")
+FRONTEND_URL = os.getenv("FRONTEND_URL", "http://localhost:5173")
 
 # Validate required configuration
 if not GROK_API_KEY:

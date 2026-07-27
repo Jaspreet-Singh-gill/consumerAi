@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from backend.routers import analyze, notice, precedents
+from backend import config
 
 app = FastAPI(
     title="ConsumerAi API",
@@ -8,9 +9,12 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# Parse multiple origins if provided as comma-separated list
+allowed_origins = [origin.strip() for origin in config.FRONTEND_URL.split(',')]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://127.0.0.1:5173"],
+    allow_origins=allowed_origins,
     allow_credentials=True,
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],  
