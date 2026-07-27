@@ -3,11 +3,11 @@ from langchain_openai import ChatOpenAI
 import backend.config as config
 from backend.models.schemas import AssessmentResult
 
-# Initialize the Grok LLM
+# Initialize the Groq LLM
 llm = ChatOpenAI(
-    model=config.GROK_MODEL_NAME,
-    api_key=config.GROK_API_KEY,
-    base_url=config.GROK_BASE_URL,
+    model=config.GROQ_MODEL_NAME,
+    api_key=config.GROQ_API_KEY,
+    base_url=config.GROQ_BASE_URL,
     temperature=0.0
 )
 

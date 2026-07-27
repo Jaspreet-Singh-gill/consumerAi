@@ -2,7 +2,7 @@
 
 Consumer Rights Triage is a full-stack AI-assisted legal triaging application that helps Indian consumers assess the strength of their disputes under the **Consumer Protection Act (CPA), 2019**, view similar past case outcomes from the NCDRC, and draft professional legal notices.
 
-The application leverages a state-of-the-art **Retrieval-Augmented Generation (RAG)** pipeline orchestrated with **LangChain**, utilizing **xAI's Grok API** for reasoning and a local **Sentence Transformers** model for embedding vector search.
+The application leverages a state-of-the-art **Retrieval-Augmented Generation (RAG)** pipeline orchestrated with **LangChain**, utilizing **Groq API** for reasoning and a local **Sentence Transformers** model for embedding vector search.
 
 ---
 
@@ -14,10 +14,10 @@ The application leverages a state-of-the-art **Retrieval-Augmented Generation (R
   - `fact_extraction_chain`: Dynamically extracts dispute parameters into a structured Pydantic format using `with_structured_output`.
   - `assessment_chain`: Triages case strength ("Weak" | "Moderate" | "Strong") and cited provisions/precedents, grounding reasoning strictly in retrieved context.
   - `notice_drafting_chain`: Generates formal, category-specific legal notices citing relevant CPA sections and unboxing/invoice evidence.
-- **LLM Model**: xAI Grok API (accessed via LangChain's OpenAI-compatible `ChatOpenAI` wrapper)
+- **LLM Model**:Groq API (accessed via LangChain's OpenAI-compatible `ChatOpenAI` wrapper)
 - **Vector DB**: Pinecone (using `langchain-pinecone` for vector storage/search)
 - **Embeddings**: Local HuggingFace sentence transformer (`all-MiniLM-L6-v2` via `langchain-huggingface`).
-  - *Design Note*: Grok does not expose a general-purpose, standalone `v1/embeddings` endpoint. Using a local embedding model saves cost, runs completely free, and eliminates the need for a separate embedding API key.
+  - *Design Note*: Groq does not expose a general-purpose, standalone `v1/embeddings` endpoint. Using a local embedding model saves cost, runs completely free, and eliminates the need for a separate embedding API key.
 - **PDF Extraction**: `PyPDFLoader` (extracts text from evidence documents with an automatic OCR/scanned fallback warning).
 
 ### 🔄 Retrieval Fallback Mechanism (Zero-Config Testing)
@@ -30,10 +30,10 @@ To ensure the application runs seamlessly out-of-the-box, a **local search fallb
 Create a `.env` file in the root directory (or `backend/` subfolder) with the following variables:
 
 ```env
-# xAI Grok API Configuration
-GROK_API_KEY=your_grok_api_key_here
-GROK_BASE_URL=https://api.x.ai/v1
-GROK_MODEL_NAME=grok-2
+#Groq API Configuration
+GROQ_API_KEY=your_groq_api_key_here
+GROQ_BASE_URL=https://api.x.ai/v1
+GROQ_MODEL_NAME=groq-2
 
 # Pinecone Vector DB Configuration
 PINECONE_API_KEY=your_pinecone_api_key_here

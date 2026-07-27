@@ -55,7 +55,7 @@ async def analyze_dispute(
         print(f"Fact extraction failed: {e}")
         raise HTTPException(
             status_code=500, 
-            detail=f"Failed to extract facts using Grok LLM. Error: {str(e)}"
+            detail=f"Failed to extract facts using Groq LLM. Error: {str(e)}"
         )
 
     # 2. Retrieve relevant CPA sections and precedents
@@ -147,7 +147,7 @@ async def analyze_dispute(
         print(f"Assessment failed: {e}")
         raise HTTPException(
             status_code=500, 
-            detail=f"Failed to assess dispute using Grok LLM. Error: {str(e)}"
+            detail=f"Failed to assess dispute using Groq LLM. Error: {str(e)}"
         )
 
     # 4. Construct response

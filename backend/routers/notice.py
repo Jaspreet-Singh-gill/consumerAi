@@ -30,7 +30,7 @@ async def draft_notice(request: NoticeDraftRequest):
         print(f"Notice drafting failed: {e}")
         raise HTTPException(
             status_code=500, 
-            detail=f"Failed to draft notice using Grok LLM. Error: {str(e)}"
+            detail=f"Failed to draft notice using Groq LLM. Error: {str(e)}"
         )
 
     return NoticeDraftResponse(

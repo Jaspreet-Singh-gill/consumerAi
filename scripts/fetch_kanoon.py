@@ -21,9 +21,9 @@ else:
 
 # We need KANOON_API_TOKEN in the environment
 KANOON_API_TOKEN = os.getenv("KANOON_API_TOKEN")
-GROK_API_KEY = os.getenv("GROK_API_KEY")
-GROK_BASE_URL = os.getenv("GROK_BASE_URL", "https://api.groq.com/openai/v1")
-GROK_MODEL_NAME = os.getenv("GROK_MODEL_NAME", "llama3-70b-8192") # Using Llama3 for extraction
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+GROQ_BASE_URL = os.getenv("GROQ_BASE_URL", "https://api.groq.com/openai/v1")
+GROQ_MODEL_NAME = os.getenv("GROQ_MODEL_NAME", "llama3-70b-8192") # Using Llama3 for extraction
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
 PRECEDENTS_PATH = os.path.join(DATA_DIR, "precedents.json")
@@ -85,9 +85,9 @@ def fetch_kanoon_document(doc_id):
 def extract_structured_data(raw_text):
     """Use Groq LLM to extract the required fields into JSON."""
     llm = ChatOpenAI(
-        api_key=GROK_API_KEY,
-        base_url=GROK_BASE_URL,
-        model=GROK_MODEL_NAME,
+        api_key=GROQ_API_KEY,
+        base_url=GROQ_BASE_URL,
+        model=GROQ_MODEL_NAME,
         temperature=0
     )
     
@@ -116,8 +116,8 @@ def main():
     
     args = parser.parse_args()
     
-    if not GROK_API_KEY:
-        print("Error: GROK_API_KEY is not set. Cannot use LLM for extraction.")
+    if not GROQ_API_KEY:
+        print("Error: GROQ_API_KEY is not set. Cannot use LLM for extraction.")
         return
         
     # 1. Search Kanoon
