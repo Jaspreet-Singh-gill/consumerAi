@@ -1,28 +1,29 @@
 import { useState } from 'react';
+import { Routes, Route, useNavigate, Navigate } from 'react-router-dom';
 import { Home } from './pages/Home';
 import { Results } from './pages/Results';
 import { NoticePreview } from './pages/NoticePreview';
 import type { DisputeAnalysisResponse, NoticeDraftResponse } from './types';
 
 function App() {
-  const [page, setPage] = useState<'home' | 'results' | 'notice'>('home');
+  const navigate = useNavigate();
   const [analysis, setAnalysis] = useState<DisputeAnalysisResponse | null>(null);
   const [notice, setNotice] = useState<NoticeDraftResponse | null>(null);
 
   const handleAnalysisSuccess = (response: DisputeAnalysisResponse) => {
     setAnalysis(response);
-    setPage('results');
+    navigate('/results');
   };
 
   const handleNoticeGenerated = (response: NoticeDraftResponse) => {
     setNotice(response);
-    setPage('notice');
+    navigate('/notice');
   };
 
   const handleStartOver = () => {
     setAnalysis(null);
     setNotice(null);
-    setPage('home');
+    navigate('/');
   };
 
   return (
@@ -40,25 +41,31 @@ function App() {
       </header>
 
       <main>
-        {page === 'home' && (
-          <Home onAnalysisSuccess={handleAnalysisSuccess} />
-        )}
-
-        {page === 'results' && analysis && (
-          <Results 
-            analysis={analysis} 
-            onNoticeGenerated={handleNoticeGenerated}
-            onBack={() => setPage('home')}
-          />
-        )}
-
-        {page === 'notice' && notice && (
-          <NoticePreview 
-            notice={notice} 
-            onBack={() => setPage('results')}
-            onStartOver={handleStartOver}
-          />
-        )}
+        <Routes>
+          <Route path="/" element={<Home onAnalysisSuccess={handleAnalysisSuccess} />} />
+          <Route path="/results" element={
+            analysis ? (
+              <Results 
+                analysis={analysis} 
+                onNoticeGenerated={handleNoticeGenerated}
+                onBack={() => navigate('/')}
+              />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          } />
+          <Route path="/notice" element={
+            notice ? (
+              <NoticePreview 
+                notice={notice} 
+                onBack={() => navigate('/results')}
+                onStartOver={handleStartOver}
+              />
+            ) : (
+              <Navigate to="/" replace />
+            )
+          } />
+        </Routes>
       </main>
     </>
   );
