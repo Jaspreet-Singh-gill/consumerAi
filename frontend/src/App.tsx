@@ -29,7 +29,7 @@ function App() {
     <>
       <header>
         <div>
-          <h1>⚖️ Consumer Rights Triage</h1>
+          <h1>⚖️ ConsumerAi</h1>
           <span style={{ fontSize: '0.85rem', color: '#64748b' }}>
             India's Consumer Protection Act (CPA) 2019 Assessor
           </span>
