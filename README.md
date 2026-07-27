@@ -78,19 +78,3 @@ npm run dev
 
 ---
 
-## 🧪 Running Automated Tests
-
-We have written offline verification scripts to test individual modules and API contracts:
-
-1. **Test Retrieval Fallback**:
-   Checks that keyword sorting correctly filters legal sections and past cases:
-   ```bash
-   python scripts/test_retrieval.py
-   ```
-
-2. **Test Backend Endpoints**:
-   Runs FastAPI integration tests for CORS, error handling, validation, and route parameters:
-   ```bash
-   python scripts/test_backend_contract.py
-   ```
-
